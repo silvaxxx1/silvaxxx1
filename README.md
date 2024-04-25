@@ -30,12 +30,7 @@ SilvaNet is a simple neural network library implemented in Python for educationa
 - Prediction using trained models
 - Model summary functionality
 
-## Installation
 
-You can install SilvaNet using pip:
-
-```bash
-pip install SilvaNet
 
 
 import numpy as np
