@@ -1,15 +1,16 @@
-- 👋 Hi, I’m Mohammed (SILVA)
-- 👀 I’m interested in ROBOTICS / AI
-- 📫email : silvapi1994@gmail.com
+Sure, here's a complete `README.md` file for your project:
 
+```markdown
 # SilvaNet
 
-SilvaNet is a simple neural network library implemented in Python for educational purposes. It provides a framework for building and training various types of neural network architectures, including fully connected networks recurrent neural networks (RNNs), and more.
+SilvaNet is a simple neural network library implemented in Python for educational purposes. It provides a framework for building and training various types of neural network architectures, including fully connected networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), and more.
 
 ## Features
 
 - Implementation of various neural network layers:
   - Fully connected (Dense) layers
+  - Convolutional layers (Conv2D)
+  - Pooling layers (MaxPool2D)
   - Flatten layer
   - Embedding layer
   - RNN cell (RNNCell)
@@ -22,17 +23,24 @@ SilvaNet is a simple neural network library implemented in Python for educationa
   - Softmax Cross-Entropy
 - Optimization algorithms:
   - Stochastic Gradient Descent (SGD)
-  - Adam
-  - RMSprop
-  - Adagrad
 - Save and load trained models
 - Evaluation of trained models
 - Prediction using trained models
 - Model summary functionality
 
+## Installation
 
+You can install SilvaNet using pip:
 
+```bash
+pip install silvanet
+```
 
+## Usage
+
+Here's a simple example demonstrating how to use SilvaNet to build, train, and evaluate a neural network:
+
+```python
 import numpy as np
 from autograd import Tensor
 from nn.Layers import Sequential, Dense, Conv2D, MaxPool2D, Flatten, Embedding, RNNCell, Dropout
@@ -42,10 +50,8 @@ from nn.optimizers import SGD
 
 # Define a simple neural network architecture
 model = Sequential([
-    Linear(784, 128),
     ReLU(),
-    Linear(128, 10),
-    ........
+    ...
     Flatten(),
     Dense(32*7*7, 128, activation='relu'),
     Dense(128, 64, activation='relu'),
@@ -77,3 +83,15 @@ loaded_model = NeuralNetwork.load_model("trained_model.pkl")
 
 # Evaluate the loaded model
 loaded_model.evaluate(X_test, y_test)
+```
+
+## Contribution
+
+Contributions to SilvaNet are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on GitHub.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
+
+Feel free to modify the content as needed and add more information about your project.
