@@ -47,10 +47,6 @@ print("Gradient of 'e' w.r.t 'a':", a.grad)
 print("Gradient of 'e' w.r.t 'b':", b.grad)
 ```
 
-## Installation
-
-You can install SilvaNet via pip:
-
 ```bash
 pip install silvanet
 ```
