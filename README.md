@@ -17,18 +17,18 @@ SilvaNet is a lightweight Python library designed to facilitate understanding of
 
 The project structure is organized as follows:
 
-- **SilvaNet**: Main package containing the neural network library.
-  - **nn**: Subpackage containing modules for building neural network architectures.
-    - **Layers**: Module for defining various types of neural network layers.
-    - **losses**: Module for implementing loss functions used in training.
-    - **optimizer**: Module for implementing optimization algorithms.
-    - **activations**: Module for implementing activation functions used in layers.
-  - **autograd**: Subpackage containing modules for automatic differentiation.
-  - **Network**: Module for the main `NeuralNetwork` class and related functionalities.
+- SilvaNet: Main package containing the neural network library.
+  - nn: Subpackage containing modules for building neural network architectures.
+    - Layers: Module for defining various types of neural network layers.
+    - losses: Module for implementing loss functions used in training.
+    - optimizer: Module for implementing optimization algorithms.
+    - activations: Module for implementing activation functions used in layers.
+  - autograd: Subpackage containing modules for automatic differentiation.
+  - Network: Module for the main `NeuralNetwork` class and related functionalities.
 
 
 ```python
-from nn.autograd import Tensor
+from autograd import Tensor
 
 # Define some tensors
 a = Tensor([1, 2, 3], autograd=True)
