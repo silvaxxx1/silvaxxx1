@@ -5,13 +5,13 @@ SilvaNet is a lightweight Python library designed to facilitate understanding of
 
 ## Key Features
 
-- **Autograd Support:** SilvaNet includes an autograd-enabled tensor class for automatic differentiation, allowing users to compute gradients efficiently during backpropagation.
-- **Intuitive API:** With a simple and intuitive API, SilvaNet offers easy-to-use functions for constructing neural network architectures and applying common operations.
-- **Element-wise Operations:** SilvaNet supports various element-wise operations, including addition, subtraction, multiplication, and more, enabling users to manipulate tensors easily.
-- **Activation Functions:** The library includes popular activation functions such as sigmoid, tanh, and ReLU, allowing users to apply non-linear transformations to their data.
-- **Loss Functions:** SilvaNet provides implementations of common loss functions like softmax cross-entropy, making it suitable for classification tasks.
-- **Flexible and Extensible:** Users can customize models by selecting different layers, activation functions, and optimization algorithms, fostering experimentation and exploration.
-- **Model Management:** SilvaNet supports model saving and loading, enabling users to save trained models for future use or share them with others.
+- Autograd Support: SilvaNet includes an autograd-enabled tensor class for automatic differentiation, allowing users to compute gradients efficiently during backpropagation.
+- Intuitive API: With a simple and intuitive API, SilvaNet offers easy-to-use functions for constructing neural network architectures and applying common operations.
+- Element-wise Operations: SilvaNet supports various element-wise operations, including addition, subtraction, multiplication, and more, enabling users to manipulate tensors easily.
+- Activation Functions: The library includes popular activation functions such as sigmoid, tanh, and ReLU, allowing users to apply non-linear transformations to their data.
+- Loss Functions: SilvaNet provides implementations of common loss functions like softmax cross-entropy, making it suitable for classification tasks.
+- Flexible and Extensible: Users can customize models by selecting different layers, activation functions, and optimization algorithms, fostering experimentation and exploration.
+- Model Management: SilvaNet supports model saving and loading, enabling users to save trained models for future use or share them with others.
 
 ## Project Structure
 
