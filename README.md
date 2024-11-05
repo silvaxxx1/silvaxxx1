@@ -1,17 +1,17 @@
-# 👋 Hi there! I’m Mohammed, but you can call me **SILVA**!
+# 👋 Hey there! I’m Mohammed, but you can call me **SILVA**!
 
 ## 👀 About Me
-I’m **Tensor Man**, a passionate explorer of **Intelligent Systems**! With a keen interest in how technology can enhance our lives, I aim to leverage AI to create solutions that make a difference. You might also call me the **Backprop Ninja**, as I navigate through complex algorithms with ease!
+Welcome to my corner of the digital universe! I’m **Tensor Man**, a fearless adventurer in the realm of **Intelligent Systems**. My mission? To harness the power of AI to craft solutions that sprinkle a bit of magic into everyday life. When it comes to navigating the intricate webs of algorithms, you might just call me the **Backprop Ninja**—leaping through layers and twisting through nodes like a pro!
 
 ## 🌱 What I'm Learning
-Currently, I’m delving deep into **Advanced Intelligent Systems**, exploring cutting-edge techniques and innovations that push the boundaries of what's possible in AI.
+Right now, I’m diving headfirst into the deep end of **Advanced Intelligent Systems**, unraveling the latest and greatest techniques that are reshaping the AI landscape. Who knows what wonders await on the other side of this knowledge journey!
 
 ## 📫 Let's Connect!
-I love networking and sharing ideas. You can reach me at: [silvapi1994@gmail.com](mailto:silvapi1994@gmail.com)  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohammed-sedeg-67444b307/) to discuss exciting projects or collaborations!
+I’m all about exchanging ideas and brainstorming groundbreaking projects. Want to chat? Shoot me an email at: [silvapi1994@gmail.com](mailto:silvapi1994@gmail.com)  
+Let’s network on [LinkedIn](https://www.linkedin.com/in/mohammed-sedeg-67444b307/)—I’m always up for discussing exciting collaborations or just bouncing around ideas!
 
 ## 🌟 Pronouns
-**He/Him**
+**Him**
 
 ## ⚡ Fun Fact
-This entire template was crafted by of AI!!
+This entire bio? Crafted by AI magic!
