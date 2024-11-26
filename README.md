@@ -1,17 +1,40 @@
-# 👋 Hey there! I’m Mohammed, but you can call me **SILVA**!
+# 👋 Hey there! I’m Mohammed—aka **SILVA**!  
 
-## 👀 About Me
-Welcome to my corner of the digital universe! I’m **Tensor Man**, a fearless adventurer in the realm of **Intelligent Systems**. My mission? To harness the power of AI to craft solutions that sprinkle a bit of magic into everyday life. When it comes to navigating the intricate webs of algorithms, you might just call me the **Backprop Ninja**—leaping through layers and twisting through nodes like a pro!
+Welcome to my corner of GitHub, where **ideas spark** and **algorithms dance**!  
 
-## 🌱 What I'm Learning
-Right now, I’m diving headfirst into the deep end of **Advanced Intelligent Systems**, unraveling the latest and greatest techniques that are reshaping the AI landscape. Who knows what wonders await on the other side of this knowledge journey!
+---
 
-## 📫 Let's Connect!
-I’m all about exchanging ideas and brainstorming groundbreaking projects. Want to chat? Shoot me an email at: [silvapi1994@gmail.com](mailto:silvapi1994@gmail.com)  
-Let’s network on [LinkedIn](https://www.linkedin.com/in/mohammed-sedeg-67444b307/)—I’m always up for discussing exciting collaborations or just bouncing around ideas!
+## 🌟 About Me  
+I’m **SILVA**, a fearless adventurer in the realm of **Artificial Intelligence** and **Intelligent Systems**. My mission? To wield the power of AI and sprinkle a touch of innovation into everyday life.  
 
-## 🌟 Pronouns
-**Him**
+With a knack for solving complex problems, I’ve earned the moniker **Backprop Ninja**—seamlessly navigating neural layers and conquering nodes with precision. Whether it's untangling convolutional layers or building generative models, I thrive on turning theories into reality.
 
-## ⚡ Fun Fact
-This entire bio? Crafted by AI magic!
+---
+
+## 🚀 What I’m Learning  
+Right now, I’m exploring the cutting-edge world of **Advanced Intelligent Systems**. From **transformers** to **deep generative models**, I’m diving deep into the concepts that are reshaping how we think about AI.  
+
+**Current Focus:**  
+- Deep Learning Architecture Design  
+- Advanced Natural Language Processing  
+- Crafting seamless AI pipelines  
+
+---
+
+## 📫 Let’s Connect!  
+Got an idea or just want to geek out about AI? Let’s chat!  
+
+📧 **Email:** [silvapi1994@gmail.com](mailto:silvapi1994@gmail.com)  
+💼 **LinkedIn:** [Mohammed Sedeg](https://www.linkedin.com/in/mohammed-sedeg-67444b307/)  
+
+I’m always excited to collaborate on groundbreaking projects or simply exchange ideas over a virtual coffee.  
+
+---
+
+## 🌈 Pronouns  
+He/Him  
+
+---
+
+## ⚡ Fun Fact  
+This bio? Crafted with the help of **AI magic**, of course—because why not let AI introduce the person shaping its future?  
