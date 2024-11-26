@@ -32,7 +32,7 @@ I’m always excited to collaborate on groundbreaking projects or simply exchang
 ---
 
 ## 🌈 Pronouns  
-He/Him  
+Him  
 
 ---
 
