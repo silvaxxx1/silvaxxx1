@@ -1,5 +1,3 @@
-# 🚀 Welcome to My World!
-
 Hi there! I’m **Mohammed (aka Silva)**, a passionate **Deep Learning Specialist** and **System Architect**. With a Bachelor's in Control Systems and Robotics, I’m currently pursuing my **PhD** in **Multimodal Deep Learning and Robotics**. I thrive on developing cutting-edge AI systems that push technological boundaries and create real-world impact.
 
 ---
