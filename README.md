@@ -21,7 +21,7 @@ As an AI Developer, I focus on designing intelligent systems that redefine the b
 ### **Data Manipulation & Visualization**
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)  [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)  [![Matplotlib](https://img.shields.io/badge/Matplotlib-003C8F?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)  [![Seaborn](https://img.shields.io/badge/Seaborn-9A4E6A?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 
-### **Specialized Tools**
+### **Computer Vision**
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3D7A?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)  [![YOLO](https://img.shields.io/badge/YOLO-0066FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexeyAB/darknet)  [![Ultralytics](https://img.shields.io/badge/Ultralytics-FF473D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ultralytics)  [![Roboflow](https://img.shields.io/badge/Roboflow-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://roboflow.com/)  [![TensorFlow Object Detection API](https://img.shields.io/badge/TensorFlow_Object_Detection_API-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/tensorflow/models/tree/master/research/object_detection)  [![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://www.ros.org/)
 
 ### **Hugging Face Ecosystem**
