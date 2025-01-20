@@ -62,5 +62,6 @@ A collection of ML papers implemented with ML frameworks. The repo includes mult
   - ViT
   - Timeline of NLP (bigram, RNN, LSTM, GRU, Transformer…)
   - Among others, with more to come.
+
 [![Automated Object Detection Pipeline](https://img.shields.io/badge/Automated_Pipeline_for_Inference-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silvaxxx1/Automated-Pipeline-for-Inference-and-Fine-Tuning-Using-TensorFlow-2-Object-Detection-API)  
 A pipeline built on top of TensorFlow API for automatic inference, training, and fine-tuning.
