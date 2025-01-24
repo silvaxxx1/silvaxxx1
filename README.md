@@ -1,117 +1,97 @@
-# 🚀 Mohammed (Silva) - Deep Learning Engineer & Systems Architect
+# 🚀 Welcome to My Digital Corner!  
 
-<div align="center">
-  
-  ![Header Banner](https://via.placeholder.com/1200x400.png/2C2F33/FFFFFF/?text=From%20Bits%20to%20Brains%20%E2%9A%99%EF%B8%8F%F0%9F%93%88) <!-- Replace with actual banner -->
+Hi there! I’m **Mohammed (aka Silva)**, a passionate **Deep Learning Specialist** and **System Architect**. Armed with a Bachelor's in Control Systems and Robotics, I’m currently pursuing my **PhD** in **Multimodal Deep Learning and Robotics**. I thrive on building cutting-edge AI systems that push technological boundaries and create real-world impact.  
 
-</div>
+---  
 
----
+## 🌟 About Me  
 
-## 🌟 **Core Competencies**
+As an **AI Developer**, I specialize in creating intelligent systems spanning **Computer Vision**, **Natural Language Processing (NLP)**, and **Robotics**. My expertise lies in designing scalable models, optimizing AI frameworks, and understanding the low-level mechanics of neural networks. Bridging theory and practice, I aim to deliver innovative solutions with practical applications.  
 
-### **Deep Learning Specialization**
-![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?logo=pytorch&style=flat) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?logo=tensorflow&style=flat)
-![Transformers](https://img.shields.io/badge/Transformer_Architectures-Research-FFD700?logo=ai&style=flat)
+---  
 
-### **Emerging Expertise** (2024 Focus)
-![CUDA](https://img.shields.io/badge/CUDA_Programming-Progressing-76B900?logo=nvidia&style=flat) 
-![Data Engineering](https://img.shields.io/badge/Data_Pipelines-Learning-01BEFE?logo=apachespark&style=flat)
-![MLOps](https://img.shields.io/badge/Production_ML-Ops-4BC0C0?logo=kubernetes&style=flat)
+## 💻 Technical Toolkit  
 
----
+### **Programming Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
-## 🛠️ **Technical Arsenal**
+### **AI & Machine Learning Frameworks**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![JAX](https://img.shields.io/badge/JAX-FFB6C1?style=for-the-badge&logo=jax&logoColor=black)  
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-F24D42?style=for-the-badge&logo=HuggingFace&logoColor=white)  
 
-### **Full-Stack AI Development**
-```python
-# Complete Model Lifecycle Toolkit
-stack = {
-    "Model Development": ["PyTorch", "JAX", "HuggingFace"],
-    "Optimization": ["CUDA", "Triton", "ONNX"],
-    "Data Pipeline": ["Apache Beam", "Spark", "TFX"],
-    "Deployment": ["FastAPI", "Triton", "Kubeflow"],
-    "Robotics": ["ROS2", "Gazebo", "MoveIt"]
-}
-```
+### **Data Manipulation & Visualization**  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003C8F?style=for-the-badge&logo=matplotlib&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-9A4E6A?style=for-the-badge&logo=seaborn&logoColor=white)  
 
-### **Core Technologies**
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Apache_Spark-FDEE21?logo=apachespark&logoColor=black" height="28">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28">
-</div>
+### **Computer Vision**  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3D7A?style=for-the-badge&logo=opencv&logoColor=white)  
+![YOLO](https://img.shields.io/badge/YOLO-0066FF?style=for-the-badge&logo=github&logoColor=white)  
+![Ultralytics](https://img.shields.io/badge/Ultralytics-FF473D?style=for-the-badge&logo=github&logoColor=white)  
+![Roboflow](https://img.shields.io/badge/Roboflow-FF6F00?style=for-the-badge&logo=github&logoColor=white)  
+![TensorFlow Object Detection API](https://img.shields.io/badge/TensorFlow_Object_Detection_API-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 
----
+### **Robotics & Tools**  
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)  
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)  
 
-## 🔭 **2024 Learning Trajectory**
+### **DevOps & Deployment**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
-```mermaid
-graph TD
-    A[Current Expertise] --> B[Deep Learning]
-    A --> C[Computer Vision]
-    A --> D[Robotics]
-    B --> E[Data Engineering]
-    C --> E
-    D --> E
-    E --> F[End-to-End AI Systems]
-    style F fill:#4CAF50,stroke:#388E3C
-```
+---  
 
----
+## 🔥 Current Focus  
 
-## 🏗️ **Featured Projects**
+- **Generative Transformer Models** 🌀: Pushing the boundaries of generative AI.  
+- **Efficient Deep Learning Architectures** 🚀: Crafting faster, more scalable AI architectures.  
+- **End-to-End AI Pipelines** 💼: Building seamless pipelines for data processing, model training, and deployment.  
+- **High-Performance Computing** 🖥️: Exploring **CUDA** and **Triton** for scaling AI systems.  
+- **Deep Learning Anatomy** 🌌: Investigating backpropagation algorithms and computational graph design.  
 
-### **1. MyLLM101** [![GitHub](https://img.shields.io/github/stars/silvaxxx1/MyLLM101?style=social)](https://github.com/silvaxxx1/MyLLM101)
-*From Scratch LLM Implementation with Self-Aware AI*
-```diff
-+ Full Training Cycle: Pretraining → SFT → RLHF → DPO
-+ Modular Architecture Design
-+ Meta_Bot: AI Tutor Understanding Its Architecture
-- Technologies: PyTorch • FlashAttention • Triton
-```
+---  
 
-### **2. Automated Vision Pipeline** [![Demo](https://img.shields.io/badge/Live_Demo-FF6F00)](https://pipeline.demo)
-*Industrial-Grade Object Detection System*
-```diff
-+ 63% Latency Reduction via CUDA Optimizations
-+ CI/CD Pipeline for Model Updates
-- Tech Stack: TensorFlow • Kubernetes • Prometheus
-```
+## 🎯 2025 Goals  
 
-### **3. SilvaNet** [![Contributors](https://img.shields.io/github/contributors/silvaxxx1/SilvaNet)](https://github.com/silvaxxx1/SilvaNet)
-*Educational Deep Learning Framework*
-```python
-# Core Features
-class Framework:
-    def __init__(self):
-        self.autograd = True
-        self.distributed = False  # 2024 Goal
-        self.optimized = False    # CUDA Integration Planned
-```
+1. Master **CUDA** and **Triton** for optimized deep learning.  
+2. Deepen knowledge of **SQL** and **Big Data** for data engineering.  
+3. Evolve into an **End-to-End Deep Learning Architect**—from data engineering to deployment.  
 
----
+---  
 
-## 🌐 **Connect & Collaborate**
+## 📂 Featured Projects  
 
-<div align="center">
+### **[MyLLM101: Building Meta Bot](https://github.com/silvaxxx1/MyLLM101)**  
+💡 An implementation of an LLM lifecycle from scratch in PyTorch. Created **Meta_Bot**, an AI aware of its creation!  
 
-[![Email](https://img.shields.io/badge/📧_Professional_Contact-silvapi1994%40gmail.com-4B32C3?style=for-the-badge)](mailto:silvapi1994@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/👔_Career_Network-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohammed-sedeg)  
-[![Scholar](https://img.shields.io/badge/📚_Research_Gateway-4285F4?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/silva)
+### **[SilvaNet](https://github.com/silvaxxx1/SilvaNet)**  
+🛠️ A lightweight deep learning library in NumPy with an intuitive API and simple design for educational purposes.  
 
-</div>
+### **[PAPER2CODE](https://github.com/silvaxxx1/PAPER2CODE)**  
+📜 A curated collection of ML papers implemented in modern frameworks. Projects include:  
+- Neural Style Transfer  
+- GANs  
+- Vision Transformers (ViT)  
+- NLP Timeline (Bigram → Transformer)  
 
----
+### **[Automated Object Detection Pipeline](https://github.com/silvaxxx1/Automated-Pipeline-for-Inference-and-Fine-Tuning-Using-TensorFlow-2-Object-Detection-API)**  
+🚀 A TensorFlow-based pipeline for automatic inference, training, and fine-tuning.  
 
-<div align="center">
-  
-  ![Visitor Badge](https://komarev.com/ghpvc/?username=silvaxxx1&label=Profile+Views&color=blueviolet&style=flat-square)
-  
-  *"Engineering intelligent systems requires both microscopic precision and macroscopic vision"*
+---  
 
-</div>
-```
+## 🌐 Let’s Connect!  
+
+Passionate about AI? Let’s collaborate or share ideas over a virtual coffee! ☕  
+
+[![Email](https://img.shields.io/badge/Email-silvapi1994%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvapi1994@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Sedeg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-sedeg-67444b307/)  
+
+---  
+
+🎉 Thanks for stopping by! I’m always excited to learn, build, and share impactful projects in AI and robotics. Let’s create something amazing together! 🚀  
