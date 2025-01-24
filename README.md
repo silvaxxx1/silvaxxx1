@@ -4,7 +4,6 @@
 
 [![Visitors](https://komarev.com/ghpvc/?username=silvaxxx1&label=Profile+Views&color=blueviolet)](https://github.com/silvaxxx1)
 [![GitHub Followers](https://img.shields.io/github/followers/silvaxxx1?style=social)](https://github.com/silvaxxx1)
-[![Coding Activity](https://wakatime.com/badge/user/{your_wakatime_id}.svg)](https://wakatime.com/@silvaxxx1)
 
 </div>
 
@@ -28,25 +27,33 @@ As an **AI Developer**, I specialize in creating intelligent systems spanning **
 ### **Core Technologies**  
 <div align="center">
 
-| Category              | Technologies                                                                                                                                                                                                                                                                                                                                                     |
-|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Programming**       | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)                                                                                                                                                                                 |
-| **AI Frameworks**     | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras) ![JAX](https://img.shields.io/badge/JAX-FFB6C1?logo=jax)                                                                                        |
-| **Computer Vision**   | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3D7A?logo=opencv) ![YOLO](https://img.shields.io/badge/YOLO-0066FF) ![Ultralytics](https://img.shields.io/badge/Ultralytics-FF473D) ![Roboflow](https://img.shields.io/badge/Roboflow-FF6F00)                                                                                                                      |
-| **Robotics**          | ![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=matlab)                                                                                                                                                                                                                                        |
-| **DevOps**            | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)                                                                                                                                                                                                                               |
+```mermaid
+graph TD
+    A[Deep Learning] --> B[PyTorch]
+    A --> C[TensorFlow]
+    B --> D[Computer Vision]
+    B --> E[NLP]
+    C --> F[Production Pipelines]
+    D --> G[YOLO]
+    D --> H[OpenCV]
+    E --> I[Transformers]
+    F --> J[Docker]
+```
 
 </div>
 
----
+### **Skill Proficiency**  
+<div align="center">
 
-## 🔥 Current Focus  
+| Technology       | Proficiency   |
+|------------------|---------------|
+| Python           | ▰▰▰▰▰▰▰▱▱ 70% |
+| PyTorch          | ▰▰▰▰▰▰▰▱▱ 70% |
+| TensorFlow       | ▰▰▰▰▱▱▱▱▱ 40% |
+| CUDA             | ▰▰▱▱▱▱▱▱▱ 20% |
+| Computer Vision  | ▰▰▰▰▰▱▱▱▱ 50% |
 
-- **Generative Transformer Models** 🌀: Pushing the boundaries of generative AI  
-- **Efficient Deep Learning Architectures** 🚀: Crafting scalable AI systems  
-- **End-to-End AI Pipelines** 💼: Building production-ready solutions  
-- **High-Performance Computing** 🖥️: CUDA/Triton optimization  
-- **Deep Learning Anatomy** 🌌: Backpropagation mechanics  
+</div>
 
 ---
 
@@ -65,20 +72,17 @@ As an **AI Developer**, I specialize in creating intelligent systems spanning **
 
 ## 📂 Featured Projects  
 
-<div align="center">
+### **[MyLLM101](https://github.com/silvaxxx1/MyLLM101)**  
+<img src="https://via.placeholder.com/600x300?text=Add+Project+GIF+Here" width="600">  
+*LLM lifecycle implementation in PyTorch*
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[MyLLM101](https://github.com/silvaxxx1/MyLLM101)** | LLM lifecycle implementation | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C) ![Python](https://img.shields.io/badge/-Python-3776AB) |
-| **[SilvaNet](https://github.com/silvaxxx1/SilvaNet)** | Educational DL library | ![NumPy](https://img.shields.io/badge/-NumPy-013243) ![Python](https://img.shields.io/badge/-Python-3776AB) |
-| **[PAPER2CODE](https://github.com/silvaxxx1/PAPER2CODE)** | ML paper implementations | ![TF](https://img.shields.io/badge/-TensorFlow-FF6F00) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C) |
-| **[Object Detection Pipeline](https://github.com/silvaxxx1/Automated-Pipeline-for-Inference-and-Fine-Tuning-Using-TensorFlow-2-Object-Detection-API)** | TF automation pipeline | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00) ![Docker](https://img.shields.io/badge/-Docker-2496ED) |
+### **[SilvaNet](https://github.com/silvaxxx1/SilvaNet)**  
+<img src="https://via.placeholder.com/600x300?text=Add+Project+GIF+Here" width="600">  
+*Educational DL library in NumPy*
 
-<!-- Add project previews by uploading GIFs to your repos and using:
-<img src="PROJECT_GIF_URL" width="600"> 
--->
-
-</div>
+### **[PAPER2CODE](https://github.com/silvaxxx1/PAPER2CODE)**  
+<img src="https://via.placeholder.com/600x300?text=Add+Project+GIF+Here" width="600">  
+*ML paper implementations*
 
 ---
 
@@ -100,3 +104,29 @@ As an **AI Developer**, I specialize in creating intelligent systems spanning **
 📌 **Visitor Count:** ![Visitor Count](https://profile-counter.glitch.me/silvaxxx1/count.svg)
 
 </div>
+```
+
+**To make this work properly:**
+
+1. **For Project GIF Previews**:
+   - Create short (3-5 second) GIFs of your projects
+   - Upload them to your project repositories
+   - Replace placeholder URLs:
+     ```markdown
+     <img src="https://raw.githubusercontent.com/silvaxxx1/MyLLM101/main/assets/demo.gif" width="600">
+     ```
+
+2. **Skill Proficiency Matrix**:
+   - Adjust percentages based on your actual skill level
+   - Update progress bars using this format:
+     ```markdown
+     | Python | ▰▰▰▰▰▰▰▱▱ 70% |
+     ```
+
+3. **Tech Stack Tree**:
+   - The Mermaid diagram will render automatically on GitHub
+   - Modify the structure to match your actual tech relationships
+
+4. **GitHub Activity Cards**:
+   - The contribution graph uses your actual commit history
+   - Stats update automatically
