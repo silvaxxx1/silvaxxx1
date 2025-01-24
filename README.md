@@ -24,9 +24,7 @@ As an **AI Developer**, I specialize in creating intelligent systems spanning **
 
 ## 💻 Technical Toolkit  
 
-### **Core Technologies**  
-<div align="center">
-
+### **Tech Stack Architecture**  
 ```mermaid
 graph TD
     A[Deep Learning] --> B[PyTorch]
@@ -39,8 +37,6 @@ graph TD
     E --> I[Transformers]
     F --> J[Docker]
 ```
-
-</div>
 
 ### **Skill Proficiency**  
 <div align="center">
@@ -72,17 +68,35 @@ graph TD
 
 ## 📂 Featured Projects  
 
-### **[MyLLM101](https://github.com/silvaxxx1/MyLLM101)**  
-<img src="https://via.placeholder.com/600x300?text=Add+Project+GIF+Here" width="600">  
-*LLM lifecycle implementation in PyTorch*
+<div align="center">
+
+### **[MyLLM101: Building Meta Bot](https://github.com/silvaxxx1/MyLLM101)**  
+<img src="https://via.placeholder.com/600x300?text=MyLLM101+Demo+GIF" width="600" alt="LLM Lifecycle Demo">  
+*Implementation of LLM lifecycle from scratch in PyTorch*  
+🔧 **Tech Stack**: ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C) ![Python](https://img.shields.io/badge/-Python-3776AB)
+
+---
 
 ### **[SilvaNet](https://github.com/silvaxxx1/SilvaNet)**  
-<img src="https://via.placeholder.com/600x300?text=Add+Project+GIF+Here" width="600">  
-*Educational DL library in NumPy*
+<img src="https://via.placeholder.com/600x300?text=SilvaNet+Demo+GIF" width="600" alt="Educational DL Library">  
+*Lightweight deep learning library in NumPy*  
+🔧 **Tech Stack**: ![NumPy](https://img.shields.io/badge/-NumPy-013243) ![Python](https://img.shields.io/badge/-Python-3776AB)
+
+---
 
 ### **[PAPER2CODE](https://github.com/silvaxxx1/PAPER2CODE)**  
-<img src="https://via.placeholder.com/600x300?text=Add+Project+GIF+Here" width="600">  
-*ML paper implementations*
+<img src="https://via.placeholder.com/600x300?text=Paper2Code+Demo+GIF" width="600" alt="ML Implementations">  
+*Curated collection of ML paper implementations*  
+🔧 **Tech Stack**: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C)
+
+---
+
+### **[Automated Object Detection](https://github.com/silvaxxx1/Automated-Pipeline-for-Inference-and-Fine-Tuning-Using-TensorFlow-2-Object-Detection-API)**  
+<img src="https://via.placeholder.com/600x300?text=Object+Detection+Demo+GIF" width="600" alt="Detection Pipeline">  
+*TF-based automated inference/training pipeline*  
+🔧 **Tech Stack**: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00) ![Docker](https://img.shields.io/badge/-Docker-2496ED)
+
+</div>
 
 ---
 
@@ -105,28 +119,3 @@ graph TD
 
 </div>
 ```
-
-**To make this work properly:**
-
-1. **For Project GIF Previews**:
-   - Create short (3-5 second) GIFs of your projects
-   - Upload them to your project repositories
-   - Replace placeholder URLs:
-     ```markdown
-     <img src="https://raw.githubusercontent.com/silvaxxx1/MyLLM101/main/assets/demo.gif" width="600">
-     ```
-
-2. **Skill Proficiency Matrix**:
-   - Adjust percentages based on your actual skill level
-   - Update progress bars using this format:
-     ```markdown
-     | Python | ▰▰▰▰▰▰▰▱▱ 70% |
-     ```
-
-3. **Tech Stack Tree**:
-   - The Mermaid diagram will render automatically on GitHub
-   - Modify the structure to match your actual tech relationships
-
-4. **GitHub Activity Cards**:
-   - The contribution graph uses your actual commit history
-   - Stats update automatically
