@@ -4,6 +4,7 @@
 
 [![Visitors](https://komarev.com/ghpvc/?username=silvaxxx1&label=Profile+Views&color=blueviolet)](https://github.com/silvaxxx1)
 [![GitHub Followers](https://img.shields.io/github/followers/silvaxxx1?style=social)](https://github.com/silvaxxx1)
+[![Coding Activity](https://wakatime.com/badge/user/{your_wakatime_id}.svg)](https://wakatime.com/@silvaxxx1)
 
 </div>
 
@@ -24,6 +25,7 @@ As an **AI Developer**, I specialize in creating intelligent systems spanning **
 
 ## 💻 Technical Toolkit  
 
+### **Core Technologies**  
 <div align="center">
 
 | Category              | Technologies                                                                                                                                                                                                                                                                                                                                                     |
@@ -48,13 +50,14 @@ As an **AI Developer**, I specialize in creating intelligent systems spanning **
 
 ---
 
-## 🎯 2025 Goals  
+## 📈 GitHub Activity  
 
 <div align="center">
 
-🏆 **Master CUDA/Triton**  
-📊 **Deepen SQL/Big Data Expertise**  
-🧩 **Become End-to-End Architect**
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=silvaxxx1&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=silvaxxx1&theme=dark&hide_border=true)](https://git.io/streak-stats)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silvaxxx1&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -71,16 +74,9 @@ As an **AI Developer**, I specialize in creating intelligent systems spanning **
 | **[PAPER2CODE](https://github.com/silvaxxx1/PAPER2CODE)** | ML paper implementations | ![TF](https://img.shields.io/badge/-TensorFlow-FF6F00) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C) |
 | **[Object Detection Pipeline](https://github.com/silvaxxx1/Automated-Pipeline-for-Inference-and-Fine-Tuning-Using-TensorFlow-2-Object-Detection-API)** | TF automation pipeline | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00) ![Docker](https://img.shields.io/badge/-Docker-2496ED) |
 
-</div>
-
----
-
-## 📈 GitHub Activity  
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=silvaxxx1&theme=dark&hide_border=true)](https://git.io/streak-stats)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silvaxxx1&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Add project previews by uploading GIFs to your repos and using:
+<img src="PROJECT_GIF_URL" width="600"> 
+-->
 
 </div>
 
