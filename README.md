@@ -1,6 +1,3 @@
-Here's a balanced professional-yet-approachable version with enhanced visuals:
-
-```markdown
 # 🌌 Mohammed (Silva) | AI Architect & Robotics Researcher
 
 <div align="center">
