@@ -1,11 +1,11 @@
 # 🚀 Welcome to My Digital Corner!  
 
 <div align="center">
-  
-[![GitHub Followers](https://img.shields.io/github/followers/silvaxxx1?style=social)](https://github.com/silvaxxx1)
+
 [![Visitors](https://komarev.com/ghpvc/?username=silvaxxx1&label=Profile+Views&color=blueviolet)](https://github.com/silvaxxx1)
-[![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/mohammed-sedeg-67444b307/)
-  
+[![GitHub Followers](https://img.shields.io/github/followers/silvaxxx1?style=social)](https://github.com/silvaxxx1)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/silvaxxx1)
+
 </div>
 
 Hi there! I’m **Mohammed (aka Silva)**, a passionate **Deep Learning Specialist** and **System Architect**. Armed with a Bachelor's in Control Systems and Robotics, I’m currently pursuing my **PhD** in **Multimodal Deep Learning and Robotics**. I thrive on building cutting-edge AI systems that push technological boundaries and create real-world impact.  
@@ -14,36 +14,32 @@ Hi there! I’m **Mohammed (aka Silva)**, a passionate **Deep Learning Specialis
 
 ## 🌟 About Me  
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Deep+Learning+Specialist;AI+Systems+Architect;Robotics+Researcher" alt="Typing Animation" />
-</p>
+<div align="center">
+  
+![AI Developer](https://raw.githubusercontent.com/silvaxxx1/silvaxxx1/main/assets/ai-developer.gif) <!-- Add your own gif -->
+
+</div>
 
 As an **AI Developer**, I specialize in creating intelligent systems spanning **Computer Vision**, **Natural Language Processing (NLP)**, and **Robotics**. My expertise lies in:
 
 - 🧠 Designing scalable neural architectures  
-- ⚡ Optimizing AI frameworks for performance  
-- 🔍 Understanding low-level network mechanics  
-- 🌉 Bridging theoretical concepts with practical implementations  
+- ⚡ Framework optimization & performance tuning  
+- 🔍 Low-level network mechanics analysis  
+- 🌉 Theory-to-practice implementation bridging  
 
 ---
 
 ## 💻 Technical Toolkit  
 
-### **Core Stack**  
-<div align="center">
-  
-| Programming Languages       | AI Frameworks               | Data Tools                  |
-|-----------------------------|-----------------------------|-----------------------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) <br> ![C/C++](https://img.shields.io/badge/C/C++-00599C?logo=c%2B%2B&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) <br> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) <br> ![NumPy](https://img.shields.iobadge/NumPy-013243?logo=numpy&logoColor=white) |
-
-</div>
-
-### **Specialized Tools**  
+### **Core Technologies**  
 <div align="center">
 
-| Computer Vision             | Robotics                   | Deployment                 |
-|-----------------------------|----------------------------|----------------------------|
-| ![OpenCV](https://img.shields.io/badge/OpenCV-5C3D7A?logo=opencv&logoColor=white) <br> ![YOLO](https://img.shields.io/badge/YOLO-0066FF?logo=yolo&logoColor=white) | ![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white) <br> ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) <br> ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
+| Category              | Badges                                                                                                                                                                                                                                                                                                                                 |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Programming**       | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)                                                                                                      |
+| **AI Frameworks**     | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![JAX](https://img.shields.io/badge/JAX-FFB6C1?logo=jax&logoColor=black) |
+| **Computer Vision**   | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3D7A?logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-0066FF?logo=yolo&logoColor=white) ![Ultralytics](https://img.shields.io/badge/Ultralytics-FF473D?logo=ultralytics&logoColor=white)                                                                         |
+| **Robotics**          | ![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white)                                                                                                                                                                             |
 
 </div>
 
@@ -52,13 +48,16 @@ As an **AI Developer**, I specialize in creating intelligent systems spanning **
 ## 🔥 Current Focus  
 
 <div align="center">
-  
-| Area                          | Progress     |
-|-------------------------------|--------------|
-| **Generative Transformer Models** 🌀 | ▰▰▰▰▰▰▰▰▱ 80% |
-| **Efficient Architectures** 🚀     | ▰▰▰▰▰▰▱▱▱ 60% |
-| **End-to-End Pipelines** 💼       | ▰▰▰▰▰▰▰▱▱ 70% |
-| **HPC with CUDA/Triton** 🖥️      | ▰▰▰▰▱▱▱▱▱ 40% |
+
+```python
+current_focus = {
+    "Generative Transformers 🌀": "Pushing generative AI boundaries",
+    "Efficient Architectures 🚀": "Optimizing model scalability",
+    "End-to-End Pipelines 💼": "Building production-ready systems",
+    "HPC Systems 🖥️": "CUDA/Triton optimization",
+    "DL Anatomy 🌌": "Backpropagation mechanics"
+}
+```
 
 </div>
 
@@ -66,9 +65,13 @@ As an **AI Developer**, I specialize in creating intelligent systems spanning **
 
 ## 🎯 2025 Goals  
 
-1. 🏆 Master **CUDA** and **Triton** for optimized deep learning  
-2. 📊 Deepen **SQL** and **Big Data** expertise  
-3. 🧩 Become **End-to-End DL Architect**  
+<div align="center">
+
+![Goal Progress](https://progress-bar.dev/66/?title=CUDA/Triton&color=58a6ff)
+![Goal Progress](https://progress-bar.dev/40/?title=SQL/BigData&color=00d26a)
+![Goal Progress](https://progress-bar.dev/25/?title=End-to-End+Architect&color=bf5af2)
+
+</div>
 
 ---
 
@@ -78,9 +81,10 @@ As an **AI Developer**, I specialize in creating intelligent systems spanning **
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[MyLLM101](https://github.com/silvaxxx1/MyLLM101)** <br> 💡 Meta Bot Creator | LLM lifecycle implementation in PyTorch | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C) ![Python](https://img.shields.io/badge/-Python-3776AB) |
-| **[SilvaNet](https://github.com/silvaxxx1/SilvaNet)** <br> 🛠️ Educational DL Library | Lightweight NumPy-based framework | ![NumPy](https://img.shields.io/badge/-NumPy-013243) ![Python](https://img.shields.io/badge/-Python-3776AB) |
-| **[PAPER2CODE](https://github.com/silvaxxx1/PAPER2CODE)** <br> 📜 ML Paper Implementations | Curated collection of modern ML implementations | ![TF](https://img.shields.io/badge/-TensorFlow-FF6F00) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C) |
+| **[MyLLM101](https://github.com/silvaxxx1/MyLLM101)** | LLM lifecycle implementation in PyTorch | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C) ![Python](https://img.shields.io/badge/-Python-3776AB) |
+| **[SilvaNet](https://github.com/silvaxxx1/SilvaNet)** | Educational DL library in NumPy | ![NumPy](https://img.shields.io/badge/-NumPy-013243) ![Python](https://img.shields.io/badge/-Python-3776AB) |
+| **[PAPER2CODE](https://github.com/silvaxxx1/PAPER2CODE)** | ML paper implementations | ![TF](https://img.shields.io/badge/-TensorFlow-FF6F00) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C) |
+| **[Object Detection Pipeline](https://github.com/silvaxxx1/Automated-Pipeline-for-Inference-and-Fine-Tuning-Using-TensorFlow-2-Object-Detection-API)** | TF-based automation pipeline | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00) ![Docker](https://img.shields.io/badge/-Docker-2496ED) |
 
 </div>
 
@@ -101,9 +105,10 @@ As an **AI Developer**, I specialize in creating intelligent systems spanning **
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-silvapi1994%40gmail.com-D14836?logo=gmail)](mailto:silvapi1994@gmail.com)
+[![Email](https://img.shields.io/badge/Email-silvapi1994%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:silvapi1994@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Sedeg-0A66C2?logo=linkedin)](https://www.linkedin.com/in/mohammed-sedeg-67444b307/)
 [![GitHub](https://img.shields.io/badge/Portfolio-silvaxxx1-181717?logo=github)](https://github.com/silvaxxx1)
+[![Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/silvaxxx1)
 
 </div>
 
@@ -111,7 +116,8 @@ As an **AI Developer**, I specialize in creating intelligent systems spanning **
 
 <div align="center">
   
-🤖 **Fun Fact:** I once trained a neural network to compose jazz music! 🎷  
-📌 **Visitor Counter:** ![Visitor Count](https://profile-counter.glitch.me/silvaxxx1/count.svg)
+🤖 **Did You Know?** My first neural network was trained to predict robot arm trajectories!  
+📌 **Visitor Count:** ![Visitor Count](https://profile-counter.glitch.me/silvaxxx1/count.svg)
 
 </div>
+```
