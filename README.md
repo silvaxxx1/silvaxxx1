@@ -1,97 +1,70 @@
-# 🚀 AI Architect Shaping the Future of Intelligent Systems
+# 🚀 Welcome to My Digital corner!
 
-**Hi, I'm Mohammed (Silva)**  
-*PhD Candidate in Multimodal AI & Robotics | Deep Learning Systems Engineer*  
-Building tomorrow's intelligent systems through cutting-edge research and industrial-strength implementations
+Hi there! I’m **Mohammed (aka Silva)**, a passionate **Deep Learning Specialist** and **System Architect**. With a Bachelor's in Control Systems and Robotics, I’m currently pursuing my **PhD** in **Multimodal Deep Learning and Robotics**. I thrive on developing cutting-edge AI systems that push technological boundaries and create real-world impact.
 
 ---
 
-## 🔥 **Next-Gen AI Innovator**
+## 🌟 About Me
 
-As a **Deep Learning Systems Architect**, I bridge theoretical AI research with production-grade implementations. My work spans:
-
-- **Core AI Infrastructure**: Designing high-performance ML frameworks from scratch  
-- **Multimodal Intelligence**: Pioneering vision-language-robotics integration  
-- **Efficient AI**: Developing optimized architectures for edge deployment  
-- **Educational Leadership**: Creating open-source learning resources used by 500+ developers  
+As an **AI Developer**, I specialize in creating intelligent systems that span **Computer Vision**, **NLP**, and **Robotics**. My expertise lies in building scalable models, optimizing AI frameworks, and diving deep into the low-level mechanics of neural networks. I am dedicated to combining theoretical knowledge with practical application to deliver innovative and efficient solutions.
 
 ---
 
-## 🛠️ **Technical Arsenal**
+## 💻 Technical Expertise
 
-### **Core Expertise**
-| **AI Development** | **Systems Engineering** | **Research Frontiers** |
-|---------------------|--------------------------|------------------------|
-| • Transformer Architectures<br>• Distributed Training<br>• Model Compression | • CUDA/Triton Acceleration<br>• ML Pipeline Orchestration<br>• Robotics Middleware (ROS) | • Neural Symbolic Integration<br>• Self-Supervised Learning<br>• Embodied AI |
+### **Programming Languages**
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)   [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))   [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 
-### **Production Stack**
-```python
-# Full lifecycle AI development
-stack = {
-    "Languages": ["Python", "C++", "CUDA"],
-    "ML Ecosystem": ["PyTorch", "JAX", "TF/Keras", "ONNX"],
-    "Vision": ["OpenCV", "YOLOv10", "DINOv2", "SAM"],
-    "NLP": ["HuggingFace", "FlashAttention", "LLM Fine-tuning"],
-    "MLOps": ["Kubeflow", "MLflow", "Triton Inference Server"],
-    "Robotics": ["ROS2", "Gazebo", "MoveIt"]
-}
-```
+### **AI & Machine Learning Frameworks**
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)   [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)   [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)   [![JAX](https://img.shields.io/badge/JAX-FFB6C1?style=for-the-badge&logo=jax&logoColor=black)](https://github.com/google/jax)   [![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)   [![Hugging Face](https://img.shields.io/badge/Hugging_Face-F24D42?style=for-the-badge&logo=HuggingFace&logoColor=white)](https://huggingface.co/)
+
+### **Data Manipulation & Visualization**
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)   [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)   [![Matplotlib](https://img.shields.io/badge/Matplotlib-003C8F?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)   [![Seaborn](https://img.shields.io/badge/Seaborn-9A4E6A?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+
+### **Computer Vision**
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3D7A?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)   [![YOLO](https://img.shields.io/badge/YOLO-0066FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexeyAB/darknet)   [![Ultralytics](https://img.shields.io/badge/Ultralytics-FF473D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ultralytics)   [![Roboflow](https://img.shields.io/badge/Roboflow-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://roboflow.com/)   [![TensorFlow Object Detection API](https://img.shields.io/badge/TensorFlow_Object_Detection_API-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/tensorflow/models/tree/master/research/object_detection)
+
+### **Robotics**
+[![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://www.ros.org/)  
+[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 
 ---
 
-## 🏆 **Impactful Projects**
+## 🔥 Current Focus
 
-### **[MyLLM101](https://github.com/silvaxxx1/MyLLM101)** - *The Self-Aware AI Tutor*
-[![Meta_Bot Demo](https://img.shields.io/badge/Live_Demo-FF6F00?style=for-the-badge)](https://myllm101.demo)
-```diff
-+ First open-source implementation combining:
-- Full LLM training cycle (SFT → RLHF → DPO)
-- Modular architecture mirroring industrial frameworks
-- Self-explaining AI agent (Meta_Bot)
-```
-**Impact**: 1.2k+ GitHub stars | Featured in ML Weekly Spotlight
-
-### **[SilvaNet](https://github.com/silvaxxx1/SilvaNet)** - *Bare-Metal Deep Learning*
-```python
-# Pure NumPy implementation of:
-- Automatic differentiation engine
-- Neural architecture search toolkit
-- Distributed training prototypes
-```
-**Adoption**: Core educational tool in 3 university AI courses
-
-### **[AutoVision Pipeline](https://github.com/silvaxxx1/Automated-Pipeline)** - *Enterprise-Grade MLOps*
-[![CI/CD](https://img.shields.io/badge/Production_Ready-4BCA00?style=flat)](https://pipeline.demo)
-- Reduced deployment latency by 63% through Triton optimizations
-- Enabled 1-click retraining for 50+ industrial vision models
+- **Generative Transformer Models** 🌀: Advancing the frontier in generative AI.  
+- **Efficient Deep Learning Architectures** 🚀: Crafting next-gen architectures for faster, more scalable AI.  
+- **End-to-End AI Pipelines** 💼: Building robust pipelines for seamless data processing, model training, and deployment.  
+- **Deep Learning Anatomy** 🌌: Diving deep into backpropagation algorithms and computational graph design.  
+- **High-Performance Computing** 🖥️: Exploring parallel computing with CUDA and Triton for scaling AI systems.
 
 ---
 
-## 📚 **Knowledge Sharing**
-**Open-Source Contributions**  
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-FFD21F?style=flat)](https://hf.co/silvaxxx)  
-[![ML Blog](https://img.shields.io/badge/Technical_Blog-FF7139?style=flat)](https://silva-ai.medium.com)
+## 🌐 Let's Connect
 
-**Recent Publications**  
-1. "Efficient Multimodal Fusion via Token Merging" - *NeurIPS 2024*  
-2. "Robotic Manipulation Through Visual Language Grounding" - *ICRA 2023*  
+Passionate about AI? Let's collaborate or exchange ideas over a virtual coffee. 🚀
+
+[![Email](https://img.shields.io/badge/Email-silvapi1994%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvapi1994@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Sedeg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-sedeg-67444b307/)
 
 ---
 
-## 🤝 **Collaboration Catalyst**
+## 📂 Notable Projects
 
-**Let's Revolutionize AI Together**  
-I partner with organizations pushing boundaries in:
+[![MyLLM101_Building Meta_Bot](https://img.shields.io/badge/MyLLM101_Building_Meta_Bot-FF4F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silvaxxx1/MyLLM101)  
+An implementation of the fill cycle of an LLM from scratch in PyTorch creating Meta_Bot, an AI that has knowledge about its creation.  
+[![SilvaNet](https://img.shields.io/badge/SilvaNet-00599C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silvaxxx1/SilvaNet)  
+A lightweight deep learning library in NumPy built with an intuitive API and simple design for my own education purposes.  
+[![PAPER2CODE](https://img.shields.io/badge/PAPER2CODE-0E76A8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silvaxxx1/PAPER2CODE)  
+A collection of ML papers implemented with ML frameworks. The repo includes multiple projects like:
+  - Neural Style Transfer
+  - GANs
+  - ViT
+  - Timeline of NLP (bigram, RNN, LSTM, GRU, Transformer…)
+  - Among others, with more to come.
 
-- Industrial AI Automation  
-- Cognitive Robotics Systems  
-- Next-Gen ML Infrastructure  
+[![Automated Object Detection Pipeline](https://img.shields.io/badge/Automated_Pipeline_for_Inference-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silvaxxx1/Automated-Pipeline-for-Inference-and-Fine-Tuning-Using-TensorFlow-2-Object-Detection-API)  
+A pipeline built on top of TensorFlow API for automatic inference, training, and fine-tuning.
 
-[![Strategy Call](https://img.shields.io/badge/Schedule_Exploration_Call-6F2DA8?style=for-the-badge)](mailto:silvapi1994@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/Deep_Dive_Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohammed-sedeg)
-
----
-
-> "True innovation happens when deep technical mastery meets systems thinking."  
-> *- Silva's Engineering Mantra*
-```
+🎉 Thanks for stopping by!
+I’m always excited to learn, build, and share cool AI and robotics projects. If you love pushing the limits of technology, feel free to reach out. Let’s create something amazing together! 🚀
