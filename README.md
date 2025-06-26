@@ -7,8 +7,6 @@
 
 </div>
 
-> *“AI isn't the future — it's the **toolbox** I'm building today.”*
-
 Hi there! I’m **Mohammed Awad (aka Silva)** — a **Deep Learning Specialist**, **Systems Architect**, and a curious mind pushing the boundaries of **intelligent machines**. I hold a **BSc in Control Systems & Robotics**, and I’m currently pursuing my **PhD in Multimodal Deep Learning & Robotics**.
 
 From robotic arms to language models, I design and build scalable, high-performance AI systems that bridge the gap between **math**, **code**, and **reality**.
