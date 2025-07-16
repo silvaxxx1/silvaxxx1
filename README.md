@@ -1,4 +1,4 @@
-# 🧠 Mohammed Silva — Architecting the Future of Intelligent Systems
+# 🧠 Mohammed "Silva" Sedeg — Intelligent Systems Eng.
 
 <div align="center">
 
