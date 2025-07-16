@@ -116,7 +116,3 @@ If you're looking for:
 <div align="center">
 
 > *"AI isn't magic — it's math, systems, and relentless curiosity."*
-
-![Visitor Count](https://profile-counter.glitch.me/silvaxxx1/count.svg)
-
-</div>
