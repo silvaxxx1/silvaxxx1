@@ -52,6 +52,7 @@ I’m **Mohammed Awad Sedeg (Silva)**, an AI Engineer & Researcher specializing 
 
 **Languages & Frameworks:**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow\&logoColor=white)
@@ -76,22 +77,22 @@ I’m **Mohammed Awad Sedeg (Silva)**, an AI Engineer & Researcher specializing 
 ### [**MyLLM101: Complete LLM Pipeline**](https://github.com/silvaxxx1/MyLLM101)
 
 End-to-end LLM development: **training, fine-tuning, RLHF, quantization**.
-*Tech: PyTorch, Transformers, CUDA*
+*Tech: Python, PyTorch, Transformers, CUDA*
 
 ### [**Enterprise RAG System**](https://github.com/silvaxxx1/enterprise-rag-system) *(Coming Soon)*
 
 Production-ready multi-provider retrieval system with vector search and enterprise features.
-*Tech: FastAPI, Docker, MongoDB, PostgreSQL, Qdrant, AWS*
+*Tech: Python, FastAPI, Docker, MongoDB, PostgreSQL, Qdrant, AWS*
 
 ### [**SilvaXNet**](https://github.com/silvaxxx1/SilvaNet)
 
-Educational deep learning framework built with **NumPy/CuPy** for understanding neural networks.
-*Tech: NumPy, CuPy, Python*
+Educational deep learning framework built with **Python (NumPy/CuPy)** for understanding neural networks.
+*Tech: Python, NumPy, CuPy*
 
 ### [**PAPER2CODE**](https://github.com/silvaxxx1/PAPER2CODE)
 
 Framework-agnostic SOTA ML paper implementations for reproducible research.
-*Tech: PyTorch, TensorFlow*
+*Tech: Python, PyTorch, TensorFlow*
 
 ---
 
@@ -126,5 +127,3 @@ I collaborate with AI engineers, researchers, and teams on:
 *"Building AI systems that bridge research innovation with real-world impact."*
 
 ---
-
-Do you want me to do that next?
