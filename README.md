@@ -21,11 +21,6 @@
 I’m **Mohammed Awad Sedeg (Silva)**, an AI Engineer & Researcher bridging **research and production** in LLMs, computer vision, robotics, and edge AI.  
 I design **modular, scalable, and optimized AI systems**, combining hardware-aware engineering with cutting-edge algorithms.  
 
-**Quick Stats:**  
-- **5+ AI projects**  
-- **3+ Years Experience**  
-- **PhD Candidate in Mechatronics & AI (Karabük University)**
-
 ---
 
 ## 💼 Professional Experience
