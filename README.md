@@ -2,14 +2,15 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=silvaxxx1&label=Profile+Views&color=blueviolet)](https://github.com/silvaxxx1)  
-[![GitHub Followers](https://img.shields.io/github/followers/silvaxxx1?style=social)](https://github.com/silvaxxx1)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-sedeg-67444b307/)  
+[![Profile Views](https://komarev.com/ghpvc/?username=silvaxxx1&label=Profile+Views&color=blueviolet)](https://github.com/silvaxxx1) &nbsp;&nbsp;
+[![GitHub Followers](https://img.shields.io/github/followers/silvaxxx1?style=social)](https://github.com/silvaxxx1) &nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-sedeg-67444b307/) &nbsp;&nbsp;
+[🌐 My Website](https://silvaxxx1.github.io/MyWebsite/)
 
-🌐 [My Website](https://silvaxxx1.github.io/MyWebsite/)  
-
-**🚀 Building production-ready AI systems from research to deployment**  
-**📍 Turkey • Remote-friendly • Open for collaboration**
+<p>
+<strong>🚀 Building production-ready AI systems from research to deployment</strong><br>
+<strong>📍 Turkey • Remote-friendly • Open for collaboration</strong>
+</p>
 
 </div>
 
