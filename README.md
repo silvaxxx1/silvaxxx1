@@ -122,11 +122,11 @@ Automated inference and fine-tuning pipeline using TensorFlow 2 Object Detection
 | **Programming Languages** | Python, C, C++, MATLAB |
 | **AI / ML** | PyTorch, TensorFlow, JAX, Scikit-learn, Hugging Face, LangChain, PEFT/LoRA, FAISS, OpenAI API, Cohere |
 | **Generative AI / LLMs** | GPT-2, LLaMA, GPT-J, Falcon, MPT, RLHF, RAG, TinyLlama, llama.cpp |
-| **Computer Vision** | YOLOv8, OpenCV, Detectron2, Albumentations, Roboflow, Object Detection API, ROS2/Gazebo |
+| **Computer Vision** | YOLOv8, OpenCV, Detectron2, Albumentations, Roboflow, Object Detection API |
 | **Edge / Deployment** | Docker, FastAPI, CI/CD, GitHub Actions, AWS SageMaker, MLflow, ONNX, TFLite, TensorRT |
 | **Databases & Data Handling** | SQL, PostgreSQL, MongoDB, Qdrant, Pandas, PySpark, NumPy, pgvector, SQLAlchemy, Alembic |
 | **Optimization / Performance** | Quantization, Pruning, Clustering, PyTorch DDP, AMP, Low-latency Inference |
-| **Robotics / Embedded Systems** | Jetson, Raspberry Pi, Sensors, Embedded Systems, Edge AI |
+| **Robotics / Embedded Systems** | Jetson, Raspberry Pi, Sensors, Embedded Systems, Edge AI, ROS2/Gazebo|
 
 ---
 
