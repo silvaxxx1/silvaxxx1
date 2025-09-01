@@ -83,29 +83,35 @@ Mentor & lead bachelor-level students in AI & robotics projects for Teknofest co
 
 ## 🔥 Featured Projects
 
-### [MyLLM: Complete LLM Pipeline](https://github.com/silvaxxx1/MyLLM101)  
-End-to-end LLM development: training, fine-tuning, RLHF, and quantization.  
-**Tech:** Python, PyTorch, Transformers, CUDA, RLHF, Quantization  
+### [**MyLLM101: Complete LLM Pipeline**](https://github.com/silvaxxx1/MyLLM101)
 
-### [RagApp – Enterprise RAG System](https://github.com/silvaxxx1/enterprise-rag-system)  
+End-to-end LLM development: **training, fine-tuning, RLHF, quantization**.  
+*Tech: Python, PyTorch, Transformers, CUDA*
+
+### [**RagApp – Enterprise RAG System**](https://github.com/silvaxxx1/RagApp)
+
 Production-ready multi-provider retrieval system with vector search and enterprise features.  
-**Tech:** Python, FastAPI, Docker, MongoDB, PostgreSQL, Qdrant, AWS, RAG  
+*Tech: Python, FastAPI, Docker, MongoDB, PostgreSQL, Qdrant, AWS*
 
-### [SilvaXNet: Educational Deep Learning Framework](https://github.com/silvaxxx1/SilvaNet)  
-Lightweight deep learning library with CPU/GPU support for educational purposes.  
-**Tech:** Python, NumPy, CuPy, Deep Learning, ANNs, RNNs, LSTMs, GRUs, CNNs  
+### [**SilvaXNet**](https://github.com/silvaxxx1/SilvaNet)
 
-### [HandsOnLLM: Practical LLM Pipelines](https://github.com/silvaxxx1/HandsOnLLM)  
-Hands-on suite for learning LLMs: fine-tuning, prompt engineering, and local RAG.  
-**Tech:** Python, Transformers, TRL, PEFT, BitsAndBytes, LangChain, SetFit, FAISS, TinyLlama, llama.cpp, Jupyter, NLP  
+Educational deep learning framework built with **Python (NumPy/CuPy)** for understanding neural networks.  
+*Tech: Python, NumPy, CuPy*
 
-### [PAPER2CODE: SOTA ML Paper Implementations](https://github.com/silvaxxx1/PAPER2CODE)  
-Reproductions of state-of-the-art ML papers for research & educational purposes.  
-**Tech:** Python, PyTorch, TensorFlow, NumPy, ML, DL, NLP, CNNs, RNNs, Transformers, GANs  
+### [**HandsOnLLM: Practical LLM Pipelines**](https://github.com/silvaxxx1/HandsOnLLMs)
 
-### [Automated TF2 Object Detection Pipeline](https://github.com/silvaxxx1/AutomatedTF2OD)  
+A modular project suite for hands-on learning with LLMs, including fine-tuning, prompt engineering, and lightweight local RAG.  
+*Tech: Python, Transformers, TRL, PEFT, BitsAndBytes, LangChain, SetFit, FAISS, TinyLlama, llama.cpp, Local RAG, Prompt Engineering, Jupyter, Scikit-Learn, NLP*
+
+### [**PAPER2CODE: SOTA ML Paper Implementations**](https://github.com/silvaxxx1/PAPER2CODE)
+
+Framework-agnostic SOTA ML paper implementations for reproducible research.  
+*Tech: Python, PyTorch, TensorFlow, NumPy*
+
+### [**Automated TF2 Object Detection Pipeline**](https://github.com/silvaxxx1/Automated-Pipeline-for-Inference-and-Fine-Tuning-Using-TensorFlow-2-Object-Detection-API)
+
 Automated inference and fine-tuning pipeline using TensorFlow 2 Object Detection API.  
-**Tech:** Python, TensorFlow 2, Object Detection API, TFRecord, OpenCV, NumPy  
+*Tech: Python, TensorFlow 2, Object Detection API, TFRecord, OpenCV, NumPy*
 
 ---
 
