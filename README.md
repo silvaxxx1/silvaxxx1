@@ -18,8 +18,7 @@
 
 ## 👋 About Me
 
-I’m **Mohammed Awad Sedeg (Silva)**, an AI Engineer & Researcher bridging **research and production** in LLMs, computer vision, robotics, and edge AI.  
-I design **modular, scalable, and optimized AI systems**, combining hardware-aware engineering with cutting-edge algorithms.  
+I'm **Mohammed Awad Sedeg (Silva)**, an AI Engineer & Researcher specializing in bridging the gap between cutting-edge AI research and production-grade systems. I design and build **modular, scalable, and optimized AI systems** for LLMs, computer vision, robotics, and edge AI, combining hardware-aware engineering with state-of-the-art algorithms.
 
 ---
 
@@ -29,40 +28,39 @@ I design **modular, scalable, and optimized AI systems**, combining hardware-awa
 Built and deployed **production-grade AI systems** on edge devices, focusing on low-latency inference, model optimization, and automated labeling.
 
 **Key Achievements:**
-- ⚡ Low-latency TFLite/ONNX models for Jetson & Raspberry Pi (60–80 ms inference)  
-- ⚡ Optimized models (-40–60% size, 2× speed) via quantization, pruning, clustering  
-- ⚡ Automated 25% of labeling with Roboflow + VLM-based augmentation  
-- ⚡ Developed YOLOv8 PPE detector (85–90% mAP) & anomaly detection with reduced overfitting  
-- ⚡ Implemented robust deployment pipelines for edge AI devices  
+- ⚡ Optimized TFLite/ONNX models for Jetson & Raspberry Pi, achieving low-latency inference (60–80 ms) for real-time applications.
+- ⚡ Improved model efficiency by **40–60%** in size and **doubled inference speed** through quantization, pruning, and clustering.
+- ⚡ Automated **25% of the data labeling** pipeline by leveraging Roboflow and Vision-Language Models (VLMs) for augmentation.
+- ⚡ Developed a robust YOLOv8 PPE detector with **85–90% mAP** and implemented anomaly detection systems with reduced overfitting.
+- ⚡ Engineered and deployed resilient pipelines for edge AI devices, ensuring reliable performance in the field.
 
 **Technologies Used:** Python, PyTorch, TensorFlow, ONNX, TFLite, YOLOv8, OpenCV, Roboflow, Edge AI, Model Optimization
 
 ---
 
 ### Generative AI & LLM Engineer — Freelancer (2023–Present, Remote)
-Developed, fine-tuned, and deployed **LLMs & RAG pipelines** optimized for edge inference and domain-specific NLP tasks.
+Developed, fine-tuned, and deployed **LLMs & Retrieval-Augmented Generation (RAG)** pipelines optimized for edge inference and domain-specific NLP tasks.
 
 **Key Achievements:**
-- ⚡ Built RAG system using PostgreSQL + pgvector for vector storage & retrieval  
-- ⚡ Multi-provider factory for closed-source & open-source LLMs (OpenAI, Cohere, Hugging Face, Ollama LLaMA.cpp)  
-- ⚡ Fine-tuned LLaMA, GPT-J, Falcon, MPT for summarization, classification, entity extraction  
-- ⚡ Deployed quantized LLMs (gguf, ExLlamaV2) achieving ~3× faster CPU/GPU edge inference  
-- ⚡ Optimized RAG & generation pipelines with LangChain + FAISS  
-- ⚡ Improved generation quality by 20% with CoT & ToT prompting  
-- ⚡ Reduced training & inference costs by 20–30% via PyTorch DDP, AMP, optimized data loaders  
+- ⚡ Engineered a scalable RAG system using PostgreSQL with `pgvector` for efficient vector storage and retrieval.
+- ⚡ Built a multi-provider factory for closed-source and open-source LLMs (OpenAI, Cohere, Hugging Face, Ollama LLaMA.cpp).
+- ⚡ Fine-tuned foundational models (LLaMA, GPT-J, Falcon, MPT) for bespoke tasks like summarization, classification, and entity extraction.
+- ⚡ Deployed quantized LLMs (GGUF, ExLlamaV2) to achieve **~3× faster CPU/GPU edge inference**.
+- ⚡ Optimized RAG and generation pipelines with LangChain and FAISS, improving retrieval and response times.
+- ⚡ Enhanced generation quality by **20%** through advanced techniques like Chain-of-Thought (CoT) and Tree-of-Thought (ToT) prompting.
+- ⚡ Reduced training and inference costs by **20–30%** via PyTorch DDP, Automatic Mixed Precision (AMP), and optimized data loaders.
 
 **Technologies Used:** Python, PyTorch, Hugging Face, LangChain, LoRA, PEFT, RAG, FAISS, PostgreSQL, pgvector, MongoDB, FastAPI, OpenAI API, Cohere API, Ollama, LLaMA.cpp, Quantization, RLHF, AWS
 
 ---
 
 ### Team Lead & Instructor (Volunteer) — Karabük University (2022–Present, Turkey)
-Mentor & lead bachelor-level students in AI & robotics projects for Teknofest competitions.
+Mentored and led undergraduate student teams in AI and robotics projects for Teknofest competitions, overseeing the full project lifecycle from ideation to deployment.
 
 **Key Achievements:**
-- ⚡ Led multi-disciplinary student teams in AI & robotics competitions  
-- ⚡ Taught courses on math, programming, and engineering concepts  
-- ⚡ Oversaw project lifecycle from ideation to deployment  
-- ⚡ Mentored students in research, model development, and best practices  
+- ⚡ Successfully led multi-disciplinary student teams in AI & robotics competitions, fostering a collaborative development environment.
+- ⚡ Taught foundational and advanced courses on mathematics, programming, and engineering concepts for AI systems.
+- ⚡ Guided students through research, model development, and best practices for building robust and reproducible projects.
 
 **Technologies Used:** Python, C/C++, Robotics, Computer Vision, Machine Learning, Project Management, Teaching, AI & Edge Systems
 
@@ -70,14 +68,14 @@ Mentor & lead bachelor-level students in AI & robotics projects for Teknofest co
 
 ## 🎓 Education
 
-- **PhD Candidate in Mechatronics & AI** — Karabük University (2024–Present)  
-  Focus: Vision-Language Models, Vision-Action Models, Edge AI pipelines, Embedded Systems  
+- **PhD Candidate in Mechatronics & AI** — Karabük University (2024–Present)
+  *Focus:* Vision-Language Models, Vision-Action Models, Edge AI Pipelines, Embedded Systems
 
-- **M.Sc. in Mechatronics** — Karabük University (2023)  
-  Focus: Deep Learning & Robotics, Low-latency Edge AI inference (Jetson, Raspberry Pi)  
+- **M.Sc. in Mechatronics** — Karabük University (2023)
+  *Focus:* Deep Learning & Robotics, Low-latency Edge AI Inference (Jetson, Raspberry Pi)
 
-- **B.Sc. in Electrical Engineering** — Sudan University of Science & Technology (2016)  
-  Focus: Control Systems, Automation, Embedded Systems  
+- **B.Sc. in Electrical Engineering** — Sudan University of Science & Technology (2016)
+  *Focus:* Control Systems, Automation, Embedded Systems
 
 ---
 
@@ -85,32 +83,32 @@ Mentor & lead bachelor-level students in AI & robotics projects for Teknofest co
 
 ### [**MyLLM101: Complete LLM Pipeline**](https://github.com/silvaxxx1/MyLLM101)
 
-End-to-end LLM development: **training, fine-tuning, RLHF, quantization**.  
+An end-to-end LLM development blueprint covering **training, fine-tuning, RLHF, and quantization**. This project serves as a comprehensive educational resource and a personal blueprint for building scalable LLM pipelines.
 *Tech: Python, PyTorch, Transformers, CUDA*
 
 ### [**RagApp – Enterprise RAG System**](https://github.com/silvaxxx1/RagApp)
 
-Production-ready multi-provider retrieval system with vector search and enterprise features.  
+A production-ready, multi-provider retrieval system with vector search and enterprise features.
 *Tech: Python, FastAPI, Docker, MongoDB, PostgreSQL, Qdrant, AWS*
 
 ### [**SilvaXNet**](https://github.com/silvaxxx1/SilvaNet)
 
-Educational deep learning framework built with **Python (NumPy/CuPy)** for understanding neural networks.  
+An educational deep learning framework built from scratch with **Python (NumPy/CuPy)** to provide a foundational understanding of neural networks.
 *Tech: Python, NumPy, CuPy*
 
 ### [**HandsOnLLM: Practical LLM Pipelines**](https://github.com/silvaxxx1/HandsOnLLMs)
 
-A modular project suite for hands-on learning with LLMs, including fine-tuning, prompt engineering, and lightweight local RAG.  
+A modular project suite for hands-on learning with LLMs, including fine-tuning, prompt engineering, and lightweight local RAG.
 *Tech: Python, Transformers, TRL, PEFT, BitsAndBytes, LangChain, SetFit, FAISS, TinyLlama, llama.cpp, Local RAG, Prompt Engineering, Jupyter, Scikit-Learn, NLP*
 
 ### [**PAPER2CODE: SOTA ML Paper Implementations**](https://github.com/silvaxxx1/PAPER2CODE)
 
-Framework-agnostic SOTA ML paper implementations for reproducible research.  
+A collection of framework-agnostic, State-of-the-Art (SOTA) ML paper implementations for reproducible research.
 *Tech: Python, PyTorch, TensorFlow, NumPy*
 
 ### [**Automated TF2 Object Detection Pipeline**](https://github.com/silvaxxx1/Automated-Pipeline-for-Inference-and-Fine-Tuning-Using-TensorFlow-2-Object-Detection-API)
 
-Automated inference and fine-tuning pipeline using TensorFlow 2 Object Detection API.  
+An automated pipeline for inference and fine-tuning using the TensorFlow 2 Object Detection API.
 *Tech: Python, TensorFlow 2, Object Detection API, TFRecord, OpenCV, NumPy*
 
 ---
@@ -134,8 +132,8 @@ Automated inference and fine-tuning pipeline using TensorFlow 2 Object Detection
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silvaxxx1&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silvaxxx1&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silvaxxx1&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silvaxxx1&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;
 
 </div>
 
@@ -143,18 +141,20 @@ Automated inference and fine-tuning pipeline using TensorFlow 2 Object Detection
 
 ## 🤝 Collaboration & Open Source
 
-I collaborate with AI engineers, researchers, and teams on:
+I am always open to collaborating with fellow AI engineers, researchers, and teams on projects related to:
 
-- **LLM Research & Optimization**  
-- **Computer Vision & Edge AI Systems**  
-- **Open Source AI Tools & Educational Frameworks**  
+- **LLM Research & Optimization**
+- **Computer Vision & Edge AI Systems**
+- **Open Source AI Tools & Educational Frameworks**
 - **Production AI & MLOps Pipelines**
 
-**I bring:** Optimization expertise, full-stack AI development, and experience translating research into production-ready systems.
+**I bring:** A blend of optimization expertise, full-stack AI development, and proven experience in translating research innovations into robust, production-ready systems.
 
 ---
 
 ## 📬 Connect With Me
+
+Looking to collaborate on a new project or discuss an opportunity? Feel free to reach out!
 
 📧 [silvapi1994@gmail.com](mailto:silvapi1994@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-sedeg-67444b307/) • 🌟 [GitHub](https://github.com/silvaxxx1) • 🌐 [Website](https://silvaxxx1.github.io/MyWebsite/)
 
