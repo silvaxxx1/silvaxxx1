@@ -19,7 +19,13 @@
 
 ## 🚀 What I Build
 
-I specialize in **high-performance AI systems** that scale from research prototypes to production deployments:
+I specialize in **high-performance AI systems** that scale from research prototypes to production deployments.
+
+> **🎯 Current Focus:** Deep diving into **CUDA, Triton, and GPU programming** to build truly efficient systems from the ground up. My goal: join the **0.1% of AI engineers** who understand systems at the kernel level and can architect breakthrough optimizations across the entire stack—from hardware to algorithms.
+
+---
+
+## 🔬 My Journey to Top 0.1%
 
 <table>
 <tr>
@@ -54,11 +60,29 @@ cv_expertise = {
 
 </td>
 </tr>
+<tr>
+<td colspan="2">
+
+### ⚡ Next Level: GPU Programming & Deep Systems (2025+)
+```python
+next_frontier = {
+    "CUDA Programming": ["Custom Kernels", "Memory Optimization", "Kernel Fusion"],
+    "Triton Compiler": ["Custom Ops", "Flash Attention", "Efficient Matmul"],
+    "GPU Architecture": ["Memory Hierarchy", "Warp Scheduling", "Tensor Cores"],
+    "Systems Optimization": ["Profiling", "Bottleneck Analysis", "Hardware-Software Co-design"],
+    "Goal": "Build from first principles → Join top 0.1% of AI systems engineers"
+}
+```
+
+**🎯 Mission:** Master the full stack from CUDA kernels to distributed training, enabling breakthrough performance optimizations that most engineers can't achieve.
+
+</td>
+</tr>
 </table>
 
 <div align="center">
 
-### 🎯 My Sweet Spot: **Distributed Training + Model Optimization + Production Deployment**
+### 💡 **Current**: High-Level Frameworks → **Next**: GPU Kernels & Deep Systems → **Future**: Breakthrough Optimizations
 
 </div>
 
@@ -135,6 +159,7 @@ cv_expertise = {
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Triton](https://img.shields.io/badge/Triton-FF6B6B?style=for-the-badge)
 
 ### AI/ML Frameworks
 
@@ -233,6 +258,26 @@ cv_expertise = {
 </td>
 </tr>
 </table>
+
+---
+
+### 🚀 Deep Systems & GPU Programming (Coming 2025)
+
+<div align="center">
+
+**🔬 Next-Generation Projects:** Building the foundations for breakthrough AI performance
+
+| Project | Focus | Tech Stack |
+|---------|-------|-----------|
+| **⚡ CUDA Kernels Library** | Custom high-performance CUDA kernels for common DL operations | CUDA C++, PTX, Memory Optimization |
+| **🔥 Triton Ops Collection** | Efficient Triton implementations (FlashAttention, Fused Ops) | Triton, PyTorch, Profiling |
+| **🧮 From-Scratch Matmul** | Educational implementations from naive → blocked → Tensor Cores | CUDA, cuBLAS, Performance Analysis |
+| **📊 GPU Profiler Suite** | Deep profiling tools for bottleneck identification | CUDA Profiler, Nsight, Custom Tools |
+| **⚙️ Hardware-Aware Training** | Training loops optimized for specific GPU architectures | Mixed Precision, Kernel Fusion, Memory Planning |
+
+**🎯 Goal:** Share knowledge while building optimizations that push the boundaries of AI efficiency
+
+</div>
 
 ---
 
@@ -388,6 +433,8 @@ Sudan University
 
 I'm looking to collaborate on projects involving:
 
+**🔥 Special Interest: Deep Systems & GPU Programming collaborations welcome!**
+
 </div>
 
 <table>
@@ -396,9 +443,11 @@ I'm looking to collaborate on projects involving:
 
 ### 🔬 For Researchers
 - 🧠 LLM architecture innovations
+- ⚡ GPU kernel optimizations & custom ops
 - 📊 Distributed training optimizations
 - 🎯 Model compression techniques
 - 📝 Reproducible research implementations
+- 🔥 CUDA/Triton performance studies
 
 </td>
 <td width="50%">
@@ -406,8 +455,10 @@ I'm looking to collaborate on projects involving:
 ### 🏢 For Companies
 - 🚀 Production AI system design
 - ⚡ Model optimization & deployment
+- 💻 Custom GPU kernel development
 - 🔧 MLOps pipeline development
 - 💼 AI consulting & architecture review
+- 🎯 Performance bottleneck elimination
 
 </td>
 </tr>
@@ -416,9 +467,11 @@ I'm looking to collaborate on projects involving:
 
 ### 👨‍💻 For Engineers
 - 🛠️ Open source AI tools
-- 📚 Educational frameworks
+- ⚡ GPU programming study groups
+- 📚 Educational frameworks & tutorials
 - 🎓 Mentorship & code reviews
 - 🤝 Pair programming sessions
+- 🔬 Deep learning from first principles
 
 </td>
 <td width="50%">
@@ -428,6 +481,8 @@ I'm looking to collaborate on projects involving:
 - 🌍 Open source contributions
 - 📖 Knowledge sharing & tutorials
 - 🎤 Technical writing & speaking
+- 🚀 Building the next generation of AI tools
+- ⚡ Making AI more efficient & accessible
 
 </td>
 </tr>
@@ -444,9 +499,14 @@ I'm looking to collaborate on projects involving:
 | **LLM Engineering** | Full pipeline from pretraining to deployment | PyTorch, DeepSpeed, Hugging Face, LoRA, RLHF |
 | **Distributed Training** | Multi-GPU/multi-node scaling expertise | DDP, FSDP, ZeRO, Pipeline Parallelism |
 | **Model Optimization** | 2-3× speed gains, 40-60% size reduction | Quantization, Pruning, ONNX, TensorRT |
+| **GPU Programming** | ⚡ *Next frontier: Custom kernels & deep optimization* | CUDA, Triton, Memory Optimization, Profiling |
 | **Production Deployment** | Battle-tested MLOps & edge deployment | Docker, FastAPI, AWS, CI/CD, Monitoring |
 | **Research Translation** | From paper to production-ready code | SOTA implementations, reproducibility |
 | **Team Leadership** | Mentoring, technical guidance, project management | Agile, code review, documentation |
+
+### 🎯 My Unique Value Proposition
+
+**Going beyond high-level frameworks** → Understanding systems from GPU kernels to distributed training → Building optimizations that 99.9% of engineers can't achieve
 
 </div>
 
@@ -479,7 +539,9 @@ I'm looking to collaborate on projects involving:
 
 ---
 
-### *"Bridging the gap between cutting-edge AI research and production systems that scale"*
+### *"Building AI systems that bridge research innovation with production systems that scale"*
+
+### *⚡ Next Chapter: Mastering GPU programming and deep systems to join the top 0.1% of AI engineers*
 
 ⭐️ From [Mohammed "Silva" Sedeg](https://github.com/silvaxxx1)
 
