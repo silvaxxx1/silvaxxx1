@@ -1,161 +1,200 @@
-# Mohammed "Silva" Sedeg — AI Engineer & Researcher
+# 👋 Hey, I'm Mohammed "Silva" Sedeg
 
 <div align="center">
+  
+### AI Engineer & Researcher | Building Production-Ready AI Systems
 
-[🌐 My Website](https://silvaxxx1.github.io/MyWebsite/) &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-sedeg-67444b307/) &nbsp;&nbsp;
-[![GitHub Followers](https://img.shields.io/github/followers/silvaxxx1?style=social)](https://github.com/silvaxxx1) &nbsp;&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=silvaxxx1&label=Profile+Views&color=blueviolet)](https://github.com/silvaxxx1)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4A90E2?style=for-the-badge)](https://silvaxxx1.github.io/MyWebsite/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-sedeg-67444b307/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvapi1994@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/silvaxxx1?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/silvaxxx1)
 
-<p>
-<strong>🚀 Building production-ready AI systems from research to deployment</strong><br>
-<strong>📍 Turkey • Remote-friendly • Open for collaboration</strong>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=silvaxxx1&label=Profile+Views&color=blueviolet&style=for-the-badge)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🚀 What I Do
 
-I'm **Mohammed Awad Sedeg (Silva)**, an AI Engineer & Researcher specializing in bridging the gap between cutting-edge AI research and production-grade systems. I design and build **modular, scalable, and optimized AI systems** for LLMs, computer vision, robotics, and edge AI, combining hardware-aware engineering with state-of-the-art algorithms.
+I bridge the gap between **cutting-edge AI research** and **production-grade systems**, specializing in:
 
----
+```python
+expertise = {
+    "LLMs": ["Fine-tuning", "RAG Systems", "Quantization", "RLHF"],
+    "Computer Vision": ["Object Detection", "Edge AI", "Model Optimization"],
+    "Deployment": ["Edge Devices", "Low-Latency Inference", "MLOps"],
+    "Research": ["Vision-Language Models", "Distributed Training", "AI Optimization"]
+}
+```
 
-## 💼 Professional Experience
-
-### AI Engineer, Computer Vision Specialist — VisionCore (2024–2025, Turkey)
-Built and deployed **production-grade AI systems** on edge devices, focusing on low-latency inference, model optimization, and automated labeling.
-
-**Key Achievements:**
-- ⚡ Optimized TFLite/ONNX models for Jetson & Raspberry Pi, achieving low-latency inference (60–80 ms) for real-time applications.
-- ⚡ Improved model efficiency by **40–60%** in size and **doubled inference speed** through quantization, pruning, and clustering.
-- ⚡ Automated **25% of the data labeling** pipeline by leveraging Roboflow and Vision-Language Models (VLMs) for augmentation.
-- ⚡ Developed a robust YOLOv8 PPE detector with **85–90% mAP** and implemented anomaly detection systems with reduced overfitting.
-- ⚡ Engineered and deployed resilient pipelines for edge AI devices, ensuring reliable performance in the field.
-
-**Technologies Used:** Python, PyTorch, TensorFlow, ONNX, TFLite, YOLOv8, OpenCV, Roboflow, Edge AI, Model Optimization
+**📍 Based in:** Turkey | **🌍 Status:** Remote-friendly, Open to relocation | **🎓 PhD Candidate** in Mechatronics & AI
 
 ---
 
-### Generative AI & LLM Engineer — Freelancer (2023–Present, Remote)
-Developed, fine-tuned, and deployed **LLMs & Retrieval-Augmented Generation (RAG)** pipelines optimized for edge inference and domain-specific NLP tasks.
+## 💼 Professional Highlights
 
-**Key Achievements:**
-- ⚡ Engineered a scalable RAG system using PostgreSQL with `pgvector` for efficient vector storage and retrieval.
-- ⚡ Built a multi-provider factory for closed-source and open-source LLMs (OpenAI, Cohere, Hugging Face, Ollama LLaMA.cpp).
-- ⚡ Fine-tuned foundational models (LLaMA, GPT-J, Falcon, MPT) for bespoke tasks like summarization, classification, and entity extraction.
-- ⚡ Deployed quantized LLMs (GGUF, ExLlamaV2) to achieve **~3× faster CPU/GPU edge inference**.
-- ⚡ Optimized RAG and generation pipelines with LangChain and FAISS, improving retrieval and response times.
-- ⚡ Enhanced generation quality by **20%** through advanced techniques like Chain-of-Thought (CoT) and Tree-of-Thought (ToT) prompting.
-- ⚡ Reduced training and inference costs by **20–30%** via PyTorch DDP, Automatic Mixed Precision (AMP), and optimized data loaders.
+### 🔥 Recent Impact
 
-**Technologies Used:** Python, PyTorch, Hugging Face, LangChain, LoRA, PEFT, RAG, FAISS, PostgreSQL, pgvector, MongoDB, FastAPI, OpenAI API, Cohere API, Ollama, LLaMA.cpp, Quantization, RLHF, AWS
+- ⚡ **40-60% model size reduction** with 2× inference speed through advanced optimization
+- ⚡ **~3× faster edge inference** deploying quantized LLMs (GGUF, ExLlamaV2)
+- ⚡ **85-90% mAP** YOLOv8 PPE detection system for production environments
+- ⚡ **20-30% cost reduction** in training/inference via DeepSpeed & distributed strategies
+- ⚡ **Automated 25% of data labeling** using VLMs and Roboflow workflows
+
+### 🏢 Current & Recent Roles
+
+**🤖 Freelance Generative AI & LLM Engineer** *(2023–Present)*
+- Built enterprise RAG systems with Postgres+pgvector, multi-provider LLM factories
+- Fine-tuned GPT-2, LLaMA, GPT-J, Falcon, MPT (+15% accuracy, -70% cost)
+- Developed OCR pipeline for fintech KYC using Mistral OCR API
+
+**👁️ AI Engineer @ VisionCore** *(2024–2025)*
+- Optimized TFLite/ONNX models for Jetson & Raspberry Pi (60-80ms inference)
+- Deployed edge AI pipelines for real-time PPE detection and anomaly detection
+
+**👨‍🏫 Team Lead & Instructor @ Karabük University** *(2022–Present, Volunteer)*
+- Mentoring student teams in AI & robotics competitions (Teknofest)
+- Teaching AI fundamentals, mathematics, and engineering best practices
 
 ---
 
-### Team Lead & Instructor (Volunteer) — Karabük University (2022–Present, Turkey)
-Mentored and led undergraduate student teams in AI and robotics projects for Teknofest competitions, overseeing the full project lifecycle from ideation to deployment.
+## 🛠️ Tech Stack
 
-**Key Achievements:**
-- ⚡ Successfully led multi-disciplinary student teams in AI & robotics competitions, fostering a collaborative development environment.
-- ⚡ Taught foundational and advanced courses on mathematics, programming, and engineering concepts for AI systems.
-- ⚡ Guided students through research, model development, and best practices for building robust and reproducible projects.
+<div align="center">
 
-**Technologies Used:** Python, C/C++, Robotics, Computer Vision, Machine Learning, Project Management, Teaching, AI & Edge Systems
+### Core Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+### AI/ML Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### LLMs & Generative AI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+
+### Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
+
+### Deployment & MLOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+### 🧠 [MyLLM101: Complete LLM Pipeline](https://github.com/silvaxxx1/MyLLM101)
+**End-to-end LLM development blueprint** covering training, fine-tuning, RLHF, and quantization. A comprehensive educational resource serving as a personal blueprint for building scalable LLM pipelines.
+
+`PyTorch` `Transformers` `CUDA` `RLHF` `Quantization`
+
+---
+
+### 🔍 [RagApp – Enterprise RAG System](https://github.com/silvaxxx1/RagApp)
+**Production-ready, multi-provider retrieval system** with vector search and enterprise features. Modular architecture supporting OpenAI, Cohere, Ollama, and Hugging Face.
+
+`FastAPI` `Docker` `MongoDB` `PostgreSQL` `Qdrant` `AWS`
+
+---
+
+### 🎓 [HandsOnLLM: Practical LLM Pipelines](https://github.com/silvaxxx1/HandsOnLLMs)
+**Modular project suite** for hands-on learning with LLMs, including fine-tuning, prompt engineering, and lightweight local RAG workflows.
+
+`Transformers` `TRL` `PEFT` `LangChain` `FAISS` `llama.cpp`
+
+---
+
+### 🧮 [SilvaXNet – Deep Learning Framework](https://github.com/silvaxxx1/SilvaNet)
+**Educational deep learning framework** built from scratch with Python (NumPy/CuPy) to provide foundational understanding of neural networks.
+
+`Python` `NumPy` `CuPy` `From Scratch`
+
+---
+
+### 📄 [PAPER2CODE: SOTA ML Implementations](https://github.com/silvaxxx1/PAPER2CODE)
+**Framework-agnostic SOTA ML paper implementations** for reproducible research, bridging theory and practice.
+
+`PyTorch` `TensorFlow` `Research` `Reproducibility`
+
+---
+
+### 🎯 [Automated TF2 Object Detection Pipeline](https://github.com/silvaxxx1/Automated-Pipeline-for-Inference-and-Fine-Tuning-Using-TensorFlow-2-Object-Detection-API)
+**Automated pipeline** for inference and fine-tuning using TensorFlow 2 Object Detection API with streamlined data preprocessing.
+
+`TensorFlow 2` `Object Detection API` `TFRecord` `OpenCV`
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvaxxx1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvaxxx1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=silvaxxx1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
 ## 🎓 Education
 
-- **PhD Candidate in Mechatronics & AI** — Karabük University (2024–Present)
-  *Focus:* Vision-Language Models, Vision-Action Models, Edge AI Pipelines, Embedded Systems
+**🎓 PhD Candidate in Mechatronics & AI** | Karabük University *(2024–Present)*  
+*Focus: Vision-Language Models, Vision-Action Models, Edge AI Pipelines*
 
-- **M.Sc. in Mechatronics** — Karabük University (2023)
-  *Focus:* Deep Learning & Robotics, Low-latency Edge AI Inference (Jetson, Raspberry Pi)
+**🎓 M.Sc. in Mechatronics** | Karabük University *(2023)*  
+*Focus: Deep Learning & Robotics, Low-latency Edge AI Inference*
 
-- **B.Sc. in Electrical Engineering** — Sudan University of Science & Technology (2016)
-  *Focus:* Control Systems, Automation, Embedded Systems
-
----
-
-## 🔥 Featured Projects
-
-### [**MyLLM101: Complete LLM Pipeline**](https://github.com/silvaxxx1/MyLLM101)
-
-An end-to-end LLM development blueprint covering **training, fine-tuning, RLHF, and quantization**. This project serves as a comprehensive educational resource and a personal blueprint for building scalable LLM pipelines.
-*Tech: Python, PyTorch, Transformers, CUDA*
-
-### [**RagApp – Enterprise RAG System**](https://github.com/silvaxxx1/RagApp)
-
-A production-ready, multi-provider retrieval system with vector search and enterprise features.
-*Tech: Python, FastAPI, Docker, MongoDB, PostgreSQL, Qdrant, AWS*
-
-### [**SilvaXNet**](https://github.com/silvaxxx1/SilvaNet)
-
-An educational deep learning framework built from scratch with **Python (NumPy/CuPy)** to provide a foundational understanding of neural networks.
-*Tech: Python, NumPy, CuPy*
-
-### [**HandsOnLLM: Practical LLM Pipelines**](https://github.com/silvaxxx1/HandsOnLLMs)
-
-A modular project suite for hands-on learning with LLMs, including fine-tuning, prompt engineering, and lightweight local RAG.
-*Tech: Python, Transformers, TRL, PEFT, BitsAndBytes, LangChain, SetFit, FAISS, TinyLlama, llama.cpp, Local RAG, Prompt Engineering, Jupyter, Scikit-Learn, NLP*
-
-### [**PAPER2CODE: SOTA ML Paper Implementations**](https://github.com/silvaxxx1/PAPER2CODE)
-
-A collection of framework-agnostic, State-of-the-Art (SOTA) ML paper implementations for reproducible research.
-*Tech: Python, PyTorch, TensorFlow, NumPy*
-
-### [**Automated TF2 Object Detection Pipeline**](https://github.com/silvaxxx1/Automated-Pipeline-for-Inference-and-Fine-Tuning-Using-TensorFlow-2-Object-Detection-API)
-
-An automated pipeline for inference and fine-tuning using the TensorFlow 2 Object Detection API.
-*Tech: Python, TensorFlow 2, Object Detection API, TFRecord, OpenCV, NumPy*
+**🎓 B.Sc. in Electrical Engineering** | Sudan University *(2016)*  
+*Focus: Control Systems, Automation, Embedded Systems*
 
 ---
 
-## 🛠️ Skills Matrix
+## 🤝 Let's Collaborate!
 
-| Category | Tools & Technologies |
-|----------|--------------------|
-| **Programming Languages** | Python, C, C++, MATLAB |
-| **AI / ML** | PyTorch, TensorFlow, JAX, Scikit-learn, Hugging Face, LangChain, PEFT/LoRA, FAISS, OpenAI API, Cohere |
-| **Generative AI / LLMs** | GPT-2, LLaMA, GPT-J, Falcon, MPT, RLHF, RAG, TinyLlama, llama.cpp |
-| **Computer Vision** | YOLOv8, OpenCV, Detectron2, Albumentations, Roboflow, Object Detection API |
-| **Edge / Deployment** | Docker, FastAPI, CI/CD, GitHub Actions, AWS SageMaker, MLflow, ONNX, TFLite, TensorRT |
-| **Databases & Data Handling** | SQL, PostgreSQL, MongoDB, Qdrant, Pandas, PySpark, NumPy, pgvector, SQLAlchemy, Alembic |
-| **Optimization / Performance** | Quantization, Pruning, Clustering, PyTorch DDP, AMP, Low-latency Inference |
-| **Robotics / Embedded Systems** | Jetson, Raspberry Pi, Sensors, Embedded Systems, Edge AI, ROS2/Gazebo|
+I'm always open to collaborating on:
 
----
+- 🧠 **LLM Research & Optimization**
+- 👁️ **Computer Vision & Edge AI Systems**
+- 🔧 **Open Source AI Tools & Educational Frameworks**
+- 🚀 **Production AI & MLOps Pipelines**
 
-## 📊 GitHub Stats
+### 📬 Get in Touch
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silvaxxx1&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silvaxxx1&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/📧_silvapi1994@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvapi1994@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-sedeg-67444b307/)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Website-4A90E2?style=for-the-badge)](https://silvaxxx1.github.io/MyWebsite/)
 
 </div>
 
 ---
 
-## 🤝 Collaboration & Open Source
+<div align="center">
 
-I am always open to collaborating with fellow AI engineers, researchers, and teams on projects related to:
+### *"Building AI systems that bridge research innovation with real-world impact."*
 
-- **LLM Research & Optimization**
-- **Computer Vision & Edge AI Systems**
-- **Open Source AI Tools & Educational Frameworks**
-- **Production AI & MLOps Pipelines**
+**Languages:** 🇬🇧 English (Fluent) | 🇹🇷 Turkish (Intermediate) | 🇸🇩 Arabic (Native)
 
-**I bring:** A blend of optimization expertise, full-stack AI development, and proven experience in translating research innovations into robust, production-ready systems.
+⭐️ From [silvaxxx1](https://github.com/silvaxxx1)
 
----
-
-## 📬 Connect With Me
-
-Looking to collaborate on a new project or discuss an opportunity? Feel free to reach out!
-
-📧 [silvapi1994@gmail.com](mailto:silvapi1994@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-sedeg-67444b307/) • 🌟 [GitHub](https://github.com/silvaxxx1) • 🌐 [Website](https://silvaxxx1.github.io/MyWebsite/)
-
-*"Building AI systems that bridge research innovation with real-world impact."*
+</div>
