@@ -4,9 +4,6 @@
 
 ### AI Engineer & Researcher | From Research to Production at Scale
 
-<!-- Dynamic Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=🚀+Building+AI+for+Everyone;🇸🇩+Founder+of+SAiR+Organization;💡+From+Research+to+Production;🎯+Making+AI+Accessible+in+Africa" alt="Dynamic Header" />
-
 <br/>
 
 <!-- Contact Badges -->
@@ -35,13 +32,15 @@
 </tr>
 </table>
 
+<br/>
+
 <!-- Stats & Location -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=silvaxxx1&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/📍_Turkey-Türkiye-FF0000?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/🌍_Remote_Ready-00C300?style=flat-square" alt="Remote Ready" />
-  <img src="https://img.shields.io/badge/✈️_Open_to_Relocation-FF9500?style=flat-square" alt="Relocation" />
-  <img src="https://img.shields.io/badge/🎓_PhD_Candidate-8A2BE2?style=flat-square" alt="PhD" />
+  <img src="https://komarev.com/ghpvc/?username=silvaxxx1&label=Profile%20Views&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/📍_Turkey-Türkiye-FF0000" alt="Location" />
+  <img src="https://img.shields.io/badge/🌍_Remote_Ready-00C300" alt="Remote Ready" />
+  <img src="https://img.shields.io/badge/✈️_Relocation-FF9500" alt="Relocation" />
+  <img src="https://img.shields.io/badge/🎓_PhD_Candidate-8A2BE2" alt="PhD" />
 </p>
 
 </div>
@@ -50,13 +49,7 @@
 
 ## 🌟 About Me
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Bridging+AI+Research+and+Production;Building+Sudan's+AI+Future+with+SAiR;Empowering+African+Talent+in+AI;Making+Cutting-Edge+AI+Accessible" alt="Mission Statement" />
-
-</div>
-
-I'm an **AI Engineer & Researcher** passionate about **democratizing artificial intelligence** and **empowering African talent**. As the **Founder & CEO of SAiR (Sudanese Artificial Intelligence Research Organization)**, I'm leading the movement to build Sudan's AI ecosystem from the ground up.
+I'm an **AI Engineer & Researcher** passionate about **democratizing artificial intelligence** and **empowering Sudanese talent**. As the **Founder of SAiR (Sudanese Artificial Intelligence Research Organization)**, I'm leading the movement to build Sudan's AI ecosystem from the ground up.
 
 **🎯 My Mission:**
 - Building **high-performance AI systems** that scale from research to production
@@ -64,7 +57,7 @@ I'm an **AI Engineer & Researcher** passionate about **democratizing artificial 
 - Creating **real-world impact** through accessible, practical AI solutions
 - **Mentoring the next generation** of African AI engineers and researchers
 
-**🏆 My Sweet Spot:** `Distributed Training` + `Model Optimization` + `Production Deployment` + `AI Education`
+**🏆 My Expertise:** `Distributed Training` + `Model Optimization` + `Production Deployment` + `AI Education`
 
 ---
 
@@ -117,8 +110,7 @@ cv_expertise = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flags/Sudan.png" alt="Sudan" width="80" height="80" />
-<h3>Founder & CEO of SAiR Organization</h3>
+<h3>🚀 Founder & CEO of SAiR Organization</h3>
 
 <p>I founded <strong>SAiR (Sudanese Artificial Intelligence Research Organization)</strong> to bridge the AI skills gap in Sudan and empower the next generation of African AI innovators.</p>
 
@@ -175,10 +167,10 @@ cv_expertise = {
 <table>
 <thead>
 <tr>
-<th width="25%">🎯 Impact Area</th>
-<th width="25%">📊 Results Achieved</th>
-<th width="25%">🔧 Methods Used</th>
-<th width="25%">🎖️ Recognition</th>
+<th width="25%">Impact Area</th>
+<th width="25%">Results Achieved</th>
+<th width="25%">Methods Used</th>
+<th width="25%">Recognition</th>
 </tr>
 </thead>
 <tbody>
@@ -258,38 +250,30 @@ cv_expertise = {
 <div align="center">
 
 ### **Core AI Frameworks**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
-![JAX](https://img.shields.io/badge/JAX-8E44AD?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-8E44AD?logo=jax&logoColor=white)
 
 ### **LLMs & Generative AI**
-![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0078D4?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
-![vLLM](https://img.shields.io/badge/vLLM-FF6B6B?style=for-the-badge)
-![LoRA](https://img.shields.io/badge/LoRA-00C853?style=for-the-badge)
+![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0078D4?logo=microsoft&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
 
 ### **Computer Vision**
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
-![Detectron2](https://img.shields.io/badge/Detectron2-3B5998?style=for-the-badge)
-![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=black)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?logo=roboflow&logoColor=white)
 
 ### **Optimization & Deployment**
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### **Distributed Systems**
-![PyTorch DDP](https://img.shields.io/badge/PyTorch_DDP-EE4C2C?style=for-the-badge)
-![FSDP](https://img.shields.io/badge/FSDP-EE4C2C?style=for-the-badge)
-![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?logo=nvidia&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 ### **Databases & Vector Stores**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?logo=qdrant&logoColor=white)
 
 </div>
 
@@ -419,15 +403,15 @@ cv_expertise = {
 <div align="center">
 
 <!-- GitHub Stats Cards -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvaxxx1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvaxxx1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=SAIR-Org"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvaxxx1&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvaxxx1&layout=compact&theme=dark&hide_border=true&langs_count=8"/>
 
 <!-- Streak & Activity Graph -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=silvaxxx1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=silvaxxx1&theme=tokyo-night&hide_border=true&area=true&custom_title=Mohammed's%20Contribution%20Graph" alt="Contribution Graph" width="98%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=silvaxxx1&theme=dark&hide_border=true" alt="GitHub Streak" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=silvaxxx1&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" width="98%"/>
 
 <!-- Trophy Case -->
-<img src="https://github-profile-trophy.vercel.app/?username=silvaxxx1&theme=nord&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" width="98%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=silvaxxx1&theme=onedark&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="98%"/>
 
 </div>
 
@@ -500,11 +484,9 @@ Sudan University
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Hugging.png" alt="Community" width="80" height="80" />
+<h3>🚀 Building Sudan's AI Future Through SAiR</h3>
 
-<h3>Building Sudan's AI Future Through SAiR</h3>
-
-<p>As Founder & CEO of SAiR, I'm dedicated to creating sustainable AI education and innovation ecosystems in Sudan and across Africa.</p>
+<p>As Founder of SAiR, I'm dedicated to creating sustainable AI education and innovation ecosystems in Sudan and across Africa.</p>
 
 </div>
 
@@ -560,9 +542,7 @@ Sudan University
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" alt="Collaboration" width="60" height="60" />
-
-<h3>I'm excited to work on projects that make a difference</h3>
+<h3>🤝 I'm excited to work on projects that make a difference</h3>
 
 </div>
 
@@ -619,35 +599,31 @@ Sudan University
 
 <div align="center">
 
-### Ready to build the future of AI together?
+### 📧 Ready to build the future of AI together?
 
 <table>
 <tr>
 <td align="center" width="25%">
 <a href="mailto:silvapi1994@gmail.com">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Email" width="40" height="40" /><br/>
-<strong>Email Me</strong><br/>
+<strong>✉️ Email Me</strong><br/>
 silvapi1994@gmail.com
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://www.linkedin.com/in/mohammed-sedeg-67444b307/">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" alt="LinkedIn" width="40" height="40" /><br/>
-<strong>Connect</strong><br/>
+<strong>👥 Connect</strong><br/>
 LinkedIn Profile
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://silvaxxx1.github.io/MyWebsite/">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Portfolio" width="40" height="40" /><br/>
-<strong>Portfolio</strong><br/>
+<strong>🌐 Portfolio</strong><br/>
 Projects & SAiR
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://t.me/+jPPlO6ZFDbtlYzU0">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="SAiR" width="40" height="40" /><br/>
-<strong>Join SAiR</strong><br/>
+<strong>🚀 Join SAiR</strong><br/>
 Telegram Community
 </a>
 </td>
@@ -666,8 +642,11 @@ Telegram Community
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=80&section=footer&text=Let's+Build+AI+That+Matters&fontSize=20&fontColor=fff&animation=fadeIn" width="100%"/>
-
 <h3>⭐️ From <a href="https://github.com/silvaxxx1">Mohammed "Silva" Sedeg</a> – Building AI for Everyone</h3>
 
 *🇸🇩 Founder of SAiR | 🚀 AI Engineer | 🌍 Making AI Accessible in Africa*
+
+</div>
+7. **Mobile-responsive design**
+
+This version will display perfectly on GitHub and maintain all your important information while looking professional and engaging!
