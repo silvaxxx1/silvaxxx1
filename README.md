@@ -1,127 +1,255 @@
-<div align="center">
-
 # 👋 Mohammed "Silva" Sedeg
+
+<div align="center">
 
 ### AI Engineer & Researcher | From Research to Production at Scale
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4A90E2?style=for-the-badge)](https://silvaxxx1.github.io/MyWebsite/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Mohammed-sedeg-67444b307/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvapi1994@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/silvaxxx1?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/silvaxxx1)
+<!-- Dynamic Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=🚀+Building+AI+for+Everyone;🇸🇩+Founder+of+SAiR+Organization;💡+From+Research+to+Production;🎯+Making+AI+Accessible+in+Africa" alt="Dynamic Header" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=silvaxxx1&label=Profile+Views&color=blueviolet&style=for-the-badge)
+<br/>
 
-**📍 Turkey** • **🌍 Remote-Ready** • **✈️ Open to Relocation** • **🎓 PhD Candidate in AI**
+<!-- Contact Badges -->
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://silvaxxx1.github.io/MyWebsite/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://www.linkedin.com/in/mohammed-sedeg-67444b307/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="mailto:silvapi1994@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/silvaxxx1">
+<img src="https://img.shields.io/github/followers/silvaxxx1?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub"/>
+</a>
+</td>
+</tr>
+</table>
+
+<!-- Stats & Location -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=silvaxxx1&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/📍_Turkey-Türkiye-FF0000?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/🌍_Remote_Ready-00C300?style=flat-square" alt="Remote Ready" />
+  <img src="https://img.shields.io/badge/✈️_Open_to_Relocation-FF9500?style=flat-square" alt="Relocation" />
+  <img src="https://img.shields.io/badge/🎓_PhD_Candidate-8A2BE2?style=flat-square" alt="PhD" />
+</p>
 
 </div>
 
 ---
 
-## 🚀 What I Build
+## 🌟 About Me
 
-I specialize in **high-performance AI systems** that scale from research prototypes to production deployments:
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Bridging+AI+Research+and+Production;Building+Sudan's+AI+Future+with+SAiR;Empowering+African+Talent+in+AI;Making+Cutting-Edge+AI+Accessible" alt="Mission Statement" />
+
+</div>
+
+I'm an **AI Engineer & Researcher** passionate about **democratizing artificial intelligence** and **empowering African talent**. As the **Founder & CEO of SAiR (Sudanese Artificial Intelligence Research Organization)**, I'm leading the movement to build Sudan's AI ecosystem from the ground up.
+
+**🎯 My Mission:**
+- Building **high-performance AI systems** that scale from research to production
+- **Democratizing AI education** in Sudan and across Africa through SAiR
+- Creating **real-world impact** through accessible, practical AI solutions
+- **Mentoring the next generation** of African AI engineers and researchers
+
+**🏆 My Sweet Spot:** `Distributed Training` + `Model Optimization` + `Production Deployment` + `AI Education`
+
+---
+
+## 🚀 What I Build
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 LLMs & Generative AI
+### 🧠 **LLMs & Generative AI**  
+*Building intelligent systems that understand, generate, and scale*
+
 ```python
 llm_expertise = {
-    "Training": ["DeepSpeed", "DDP", "FSDP"],
-    "Fine-tuning": ["LoRA", "QLoRA", "PEFT"],
-    "Optimization": ["Quantization", "Pruning"],
-    "Alignment": ["RLHF", "DPO", "PPO"],
-    "Deployment": ["RAG", "vLLM", "TGI"],
-    "Scaling": ["ZeRO", "Pipeline Parallel"]
+    "Training": ["DeepSpeed", "DDP", "FSDP", "ZeRO"],
+    "Fine-tuning": ["LoRA", "QLoRA", "PEFT", "RLHF"],
+    "Optimization": ["Quantization", "Pruning", "Distillation"],
+    "Deployment": ["RAG", "vLLM", "TGI", "Edge LLMs"],
+    "Scaling": ["Pipeline Parallel", "Multi-GPU", "Cloud Native"]
 }
 ```
+
+**Recent Impact:** +15% accuracy with -70% cost via efficient fine-tuning
 
 </td>
 <td width="50%">
 
-### 👁️ Computer Vision & Edge AI
+### 👁️ **Computer Vision & Edge AI**  
+*Making vision systems fast, efficient, and accessible*
+
 ```python
 cv_expertise = {
-    "Detection": ["YOLO", "Detectron2"],
-    "Segmentation": ["SAM", "Mask R-CNN"],
-    "Optimization": ["TensorRT", "ONNX"],
-    "Edge": ["TFLite", "Jetson", "RasPi"],
-    "Training": ["DDP", "AMP", "Gradient Acc"],
-    "Performance": ["60-80ms inference"]
+    "Detection": ["YOLO", "Detectron2", "Real-time Systems"],
+    "Segmentation": ["SAM", "Mask R-CNN", "Medical Imaging"],
+    "Optimization": ["TensorRT", "ONNX", "Edge Deployment"],
+    "Edge": ["Jetson", "RasPi", "Mobile", "TFLite"],
+    "Production": ["60-80ms inference", "Robust Pipelines"]
 }
+```
+
+**Recent Impact:** 40-60% model size reduction, 2-3× faster inference
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🇸🇩 **SAiR Initiative: Building Sudan's AI Future**
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flags/Sudan.png" alt="Sudan" width="80" height="80" />
+<h3>Founder & CEO of SAiR Organization</h3>
+
+<p>I founded <strong>SAiR (Sudanese Artificial Intelligence Research Organization)</strong> to bridge the AI skills gap in Sudan and empower the next generation of African AI innovators.</p>
+
+</div>
+
+### 🎯 **SAiR's Impact:**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📚 **Education & Training**
+- **200+ Active Learners** in AI/ML courses
+- **3 Complete Modules** taught (Python, ML, DL)
+- **15+ Real Projects** built by students
+- **Free, accessible** AI education for all
+- **Practical, project-based** curriculum
+
+#### 👥 **Community Building**
+- Growing **Telegram community** of AI enthusiasts
+- **Weekly live sessions** and mentorship
+- **Industry expert** guest speakers
+- **Peer learning** and collaboration networks
+- **Career guidance** and opportunity sharing
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚀 **Future Vision**
+- **Research publications** from Sudan
+- **AI solutions** for local challenges
+- **Startup incubation** for AI innovations
+- **Pan-African expansion** of SAiR model
+- **Global recognition** of Sudanese AI talent
+
+#### 📊 **Current Metrics**
+```
+200+ Learners | 3 Modules | 15+ Projects
+85% Completion | 40 Active | 5 African Nations
 ```
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-### 🎯 My Sweet Spot: **Distributed Training + Model Optimization + Production Deployment**
-
-</div>
+**🔗 Learn More:** [SAiR Organization](https://github.com/SAIR-Org) | [Join Community](https://t.me/+jPPlO6ZFDbtlYzU0)
 
 ---
 
-## 💼 Impact & Achievements
+## 💼 Professional Experience & Impact
 
 <div align="center">
 
-| 🎯 Metric | 📊 Result | 🔧 Method |
-|-----------|-----------|-----------|
-| **Model Size** | ↓ 40-60% | Quantization + Pruning + Clustering |
-| **Inference Speed** | 🚀 2-3× Faster | ONNX/TFLite + TensorRT Optimization |
-| **Training Cost** | 💰 ↓ 20-30% | DeepSpeed ZeRO + AMP + Pipeline Parallelism |
-| **Labeling Time** | ⏱️ ↓ 25% | VLM-powered Auto-labeling |
-| **mAP Score** | 🎯 85-90% | Production PPE Detection System |
-| **Fine-tuning ROI** | 📈 +15% accuracy, -70% cost | LoRA + Unsloth + Efficient Data |
+<table>
+<thead>
+<tr>
+<th width="25%">🎯 Impact Area</th>
+<th width="25%">📊 Results Achieved</th>
+<th width="25%">🔧 Methods Used</th>
+<th width="25%">🎖️ Recognition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Model Optimization</strong></td>
+<td>40-60% size reduction, 2-3× speed gain</td>
+<td>Quantization, Pruning, ONNX/TensorRT</td>
+<td>Production-grade performance</td>
+</tr>
+<tr>
+<td><strong>Distributed Training</strong></td>
+<td>20-30% cost reduction at scale</td>
+<td>DeepSpeed ZeRO, AMP, Pipeline Parallel</td>
+<td>Enterprise scaling expertise</td>
+</tr>
+<tr>
+<td><strong>LLM Fine-tuning</strong></td>
+<td>+15% accuracy, -70% cost</td>
+<td>LoRA, QLoRA, Efficient Data Strategies</td>
+<td>State-of-the-art results</td>
+</tr>
+<tr>
+<td><strong>Edge AI Deployment</strong></td>
+<td>60-80ms real-time inference</td>
+<td>TensorRT, TFLite, Edge Optimization</td>
+<td>Production-ready systems</td>
+</tr>
+<tr>
+<td><strong>AI Education (SAiR)</strong></td>
+<td>200+ learners trained</td>
+<td>Practical curriculum, community support</td>
+<td>Building Sudan's AI pipeline</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 
----
-
-## 🏢 Professional Experience
-
-### 🤖 **Freelance Generative AI & LLM Engineer** 
+### 🤖 **Freelance Generative AI & LLM Engineer**  
 *2023 – Present | Remote*
 
 **Building scalable LLM systems from training to deployment:**
+- 🏗️ **Enterprise RAG systems** with Postgres+pgvector, multi-provider LLM factory
+- ⚡ **Scaled training pipelines** using DeepSpeed and PyTorch DDP
+- 🎯 **Fine-tuned foundation models** (LLaMA, GPT-J, Falcon) with cost-efficient methods
+- 🚀 **Deployed quantized LLMs** for ~3× faster CPU/GPU inference
+- 💼 **OCR pipeline** for fintech KYC using Mistral OCR API
 
-- 🏗️ **Built enterprise RAG systems** with Postgres+pgvector, multi-provider LLM factory (OpenAI, Cohere, HF, Ollama)
-- ⚡ **Scaled training pipelines** using DeepSpeed (ZeRO-1/2/3, AMP, pipeline parallelism) and PyTorch DDP
-- 🎯 **Fine-tuned foundation models** (LLaMA, GPT-J, Falcon, MPT) achieving +15% accuracy with -70% cost via LoRA/QLoRA
-- 🚀 **Deployed quantized LLMs** (GGUF, ExLlamaV2, AWQ) for ~3× faster CPU/GPU edge inference
-- 🧠 **Enhanced generation quality** by 20% through CoT, ToT prompting and retrieval optimization
-- 💼 **Developed OCR pipeline** for fintech KYC using Mistral OCR API (identity verification + fraud detection)
+**Tech:** `PyTorch` `DeepSpeed` `Hugging Face` `LangChain` `LoRA` `RAG` `FastAPI`
 
-**Tech:** PyTorch, DeepSpeed, Hugging Face, LangChain, LoRA, PEFT, RAG, FAISS, PostgreSQL, FastAPI, Docker
-
----
-
-### 👁️ **AI Engineer, Computer Vision Specialist @ VisionCore**
+### 👁️ **AI Engineer, Computer Vision Specialist**  
 *2024 – 2025 | Turkey (Contract)*
 
 **Optimizing and deploying edge AI systems:**
+- ⚡ **Edge optimization** for Jetson/RasPi (60-80ms real-time inference)
+- 📉 **Model footprint reduction** by 40-60% via quantization/pruning
+- 🤖 **Automated labeling** workflows using Roboflow + VLM augmentation
+- 🎯 **Production YOLOv8 detector** achieving 85-90% mAP
+- 🔧 **Resilient pipelines** for edge deployment with monitoring
 
-- ⚡ **Optimized models for edge** devices (Jetson, Raspberry Pi) achieving 60-80ms real-time inference
-- 📉 **Reduced model footprint** by 40-60% and doubled inference speed via quantization, pruning, clustering
-- 🤖 **Automated 25% of labeling** using Roboflow + VLM augmentation workflows
-- 🎯 **Built production YOLOv8 PPE detector** achieving 85-90% mAP with robust anomaly detection
-- 🔧 **Engineered resilient pipelines** for edge deployment with resource optimization and monitoring
+**Tech:** `PyTorch` `TensorFlow` `ONNX` `YOLOv8` `TensorRT` `Edge AI`
 
-**Tech:** PyTorch, TensorFlow, ONNX, TFLite, YOLOv8, OpenCV, TensorRT, Edge AI
-
----
-
-### 👨‍🏫 **Team Lead & AI Instructor @ Karabük University** 
+### 👨‍🏫 **Team Lead & AI Instructor @ Karabük University**  
 *2022 – Present | Turkey (Volunteer)*
 
-**Mentoring next-gen AI engineers:**
-
-- 🏆 **Led multi-disciplinary teams** in AI & robotics competitions (Teknofest)
-- 📚 **Taught courses** on mathematics, programming, ML/DL fundamentals, and engineering best practices
-- 🔬 **Guided research projects** from ideation to deployment, emphasizing reproducibility and scalability
+**Mentoring next-gen AI engineers & leading SAiR:**
+- 🏆 **Led competition teams** in national AI/robotics events (Teknofest)
+- 📚 **Teaching AI/ML fundamentals** and engineering best practices
+- 🇸🇩 **Founding SAiR** to democratize AI education in Sudan
+- 🔬 **Guiding research projects** from ideation to deployment
+- 🌍 **Building African AI talent** through accessible education
 
 ---
 
@@ -129,104 +257,86 @@ cv_expertise = {
 
 <div align="center">
 
-### Core Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-### AI/ML Frameworks
-
+### **Core AI Frameworks**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-8E44AD?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-8E44AD?style=for-the-badge)
 
-### LLMs & GenAI
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+### **LLMs & Generative AI**
 ![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0078D4?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
-![Unsloth](https://img.shields.io/badge/Unsloth-FF6B6B?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![vLLM](https://img.shields.io/badge/vLLM-FF6B6B?style=for-the-badge)
+![LoRA](https://img.shields.io/badge/LoRA-00C853?style=for-the-badge)
 
-### Computer Vision
-
+### **Computer Vision**
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
 ![Detectron2](https://img.shields.io/badge/Detectron2-3B5998?style=for-the-badge)
 ![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge)
 
-### MLOps & Deployment
-
+### **Optimization & Deployment**
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-### Optimization & Edge
-
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### Databases & Vector Stores
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-
-### Distributed Training
-
+### **Distributed Systems**
 ![PyTorch DDP](https://img.shields.io/badge/PyTorch_DDP-EE4C2C?style=for-the-badge)
 ![FSDP](https://img.shields.io/badge/FSDP-EE4C2C?style=for-the-badge)
-![DeepSpeed ZeRO](https://img.shields.io/badge/DeepSpeed_ZeRO-0078D4?style=for-the-badge)
+![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge)
+
+### **Databases & Vector Stores**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎯 Featured Open Source Projects
+## 🎯 Featured Projects
 
-### 🏆 Flagship Projects
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
+### 🏆 **Flagship Project**
 #### 🧠 [MyLLM101: Complete LLM Pipeline](https://github.com/silvaxxx1/MyLLM101)
 
-**End-to-end LLM development framework** from pretraining to deployment
+**End-to-end LLM development framework**  
+*Teaching what I practice at SAiR*
 
-🎯 **What's Inside:**
+**Features:**
 - Custom GPT-2 & LLaMA implementations
-- RLHF, SFT, DPO, PPO alignment
+- RLHF, SFT, DPO alignment pipelines
 - Quantization (GGUF, AWQ, GPTQ)
 - Memory-efficient training (LoRA, QLoRA)
-- Interactive notebooks + modular design
+- Interactive educational notebooks
 
-⭐ **Perfect for:** Learning LLM internals, research prototyping, production scaling
+**Impact:** Used to teach **200+ SAiR students** LLM fundamentals
 
 `PyTorch` `Transformers` `CUDA` `RLHF` `DeepSpeed`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
+### 🏆 **Production Project**
 #### 🔍 [RagApp – Enterprise RAG System](https://github.com/silvaxxx1/RagApp)
 
-**Production-ready RAG framework** with enterprise features
+**Production-ready RAG framework**  
+*Battle-tested in consulting engagements*
 
-🎯 **Key Features:**
+**Features:**
 - Multi-provider LLM factory (OpenAI, Cohere, HF, Ollama)
 - Database-agnostic vector storage
-- Retriever-generator separation
 - FastAPI + Docker deployment
 - CI/CD ready with monitoring
+- Scalable for enterprise use
 
-⭐ **Perfect for:** Enterprise AI applications, scalable chatbots, knowledge systems
+**Impact:** Powers **real client solutions** and SAiR educational demos
 
 `FastAPI` `Docker` `PostgreSQL` `Qdrant` `LangChain`
 
@@ -234,72 +344,67 @@ cv_expertise = {
 </tr>
 </table>
 
----
+</div>
 
-### 📚 Educational & Learning Projects
+### 📚 **SAiR Educational Projects**
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" valign="top">
 
-#### 🎓 [HandsOnLLM](https://github.com/silvaxxx1/HandsOnLLMs)
+#### 🎓 [SAiR Courses Repository](https://github.com/SAIR-Org/SAIR_Courses)
 
-Practical LLM workflows: fine-tuning, prompting, local RAG
+**Free AI curriculum** for Sudanese learners  
+*Part of my SAiR initiative*
 
-`TRL` `PEFT` `FAISS` `llama.cpp`
-
-</td>
-<td width="33%">
-
-#### 🧮 [SilvaXNet](https://github.com/silvaxxx1/SilvaNet)
-
-Deep learning framework from scratch (NumPy/CuPy)
-
-`NumPy` `CuPy` `Autograd`
+`Python` `ML` `DL` `Education`
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
-#### 📄 [PAPER2CODE](https://github.com/silvaxxx1/PAPER2CODE)
+#### 🧮 [SilvaXNet: DL from Scratch](https://github.com/silvaxxx1/SilvaNet)
 
-SOTA ML paper implementations
+**Deep learning framework** built from first principles  
+*Teaching tool for SAiR students*
 
-`Research` `PyTorch` `TensorFlow`
+`NumPy` `CuPy` `Autograd` `Education`
+
+</td>
+<td width="33%" valign="top">
+
+#### 📄 [PAPER2CODE: SOTA Implementations](https://github.com/silvaxxx1/PAPER2CODE)
+
+**Research paper to production code**  
+*Open sourcing my learning journey*
+
+`Research` `PyTorch` `Implementation`
 
 </td>
 </tr>
 </table>
 
----
-
-### 🔧 Production Tools
+### 🔧 **Production Tools & Templates**
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🎯 [Automated TF2 Object Detection Pipeline](https://github.com/silvaxxx1/Automated-Pipeline-for-Inference-and-Fine-Tuning-Using-TensorFlow-2-Object-Detection-API)
+#### 🎯 [Automated TF2 Object Detection](https://github.com/silvaxxx1/Automated-Pipeline-for-Inference-and-Fine-Tuning-Using-TensorFlow-2-Object-Detection-API)
 
-Complete pipeline for dataset preprocessing, training, and inference
+**Complete CV pipeline** for production use  
+*Used in consulting projects*
 
-**Features:**
-- TFRecord generation
-- GPU-accelerated training
-- Real-time video/webcam inference
-- Production-ready deployment
-
-`TensorFlow 2` `Object Detection API` `TFRecord` `OpenCV`
+`TensorFlow 2` `Object Detection` `TFRecord` `OpenCV`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🚀 More Projects Coming Soon
-
-I'm constantly building and open-sourcing:
+#### 🌟 **More Coming Soon**
+**Always building & open-sourcing:**
 - Distributed training templates
 - Model optimization toolkits
 - Edge deployment frameworks
-- Research implementations
+- SAiR educational materials
 
 **Watch this space!** ⭐
 
@@ -313,56 +418,63 @@ I'm constantly building and open-sourcing:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvaxxx1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvaxxx1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<!-- GitHub Stats Cards -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvaxxx1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvaxxx1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=SAIR-Org"/>
 
+<!-- Streak & Activity Graph -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=silvaxxx1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=silvaxxx1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=silvaxxx1&theme=tokyo-night&hide_border=true&area=true&custom_title=Mohammed's%20Contribution%20Graph" alt="Contribution Graph" width="98%"/>
+
+<!-- Trophy Case -->
+<img src="https://github-profile-trophy.vercel.app/?username=silvaxxx1&theme=nord&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" width="98%"/>
 
 </div>
 
 ---
 
-## 🎓 Education & Credentials
+## 🎓 Education & Continuous Learning
+
+<div align="center">
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" valign="top">
 
-### 🎓 PhD Candidate
+### 🎓 **PhD Candidate**  
 **Mechatronics & AI**  
 Karabük University  
 *2024 – Present*
 
-**Focus:**
+**Research Focus:**
 - Vision-Language Models
-- Vision-Action Models
+- Vision-Action Integration
 - Edge AI Pipelines
-- Embedded Systems
+- African AI Applications
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
-### 🎓 M.Sc. Degree
+### 🎓 **M.Sc. Degree**  
 **Mechatronics Engineering**  
 Karabük University  
 *2023*
 
-**Focus:**
-- Deep Learning & Robotics
+**Specialization:**
+- Deep Learning Systems
 - Computer Vision
 - Low-latency Edge AI
-- Jetson & Raspberry Pi
+- Embedded ML Systems
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
-### 🎓 B.Sc. Degree
+### 🎓 **B.Sc. Degree**  
 **Electrical Engineering**  
 Sudan University  
 *2016*
 
-**Focus:**
+**Foundation:**
 - Control Systems
 - Automation
 - Embedded Systems
@@ -372,13 +484,75 @@ Sudan University
 </tr>
 </table>
 
+</div>
+
+### 📚 **Continuous Learning & Certifications**
+- **Deep Learning Specialization** – deeplearning.ai
+- **Machine Learning Engineering** – various platforms
+- **Distributed Systems** – self-study & production experience
+- **AI Research Methods** – academic & practical
+
+**🔗 View All Certifications:** [Google Drive Folder](https://drive.google.com/drive/folders/1_jptrFFIlA3uZUXjhCKuEX6JztPal1u1?usp=sharing)
+
+---
+
+## 🌍 **SAiR Initiative & Community Leadership**
+
 <div align="center">
 
-### 📜 Courses & Certifications
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Hugging.png" alt="Community" width="80" height="80" />
 
-[View My Certifications →](https://drive.google.com/drive/folders/1_jptrFFIlA3uZUXjhCKuEX6JztPal1u1?usp=sharing)
+<h3>Building Sudan's AI Future Through SAiR</h3>
+
+<p>As Founder & CEO of SAiR, I'm dedicated to creating sustainable AI education and innovation ecosystems in Sudan and across Africa.</p>
 
 </div>
+
+### 🎯 **SAiR's Three Pillars:**
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### 📚 **Education**
+- Free AI/ML courses
+- Project-based learning
+- Practical skill development
+- Career path guidance
+- 200+ active learners
+
+</td>
+<td width="33%" valign="top">
+
+#### 👥 **Community**
+- Telegram learning groups
+- Weekly live sessions
+- Peer mentorship
+- Industry connections
+- Collaborative projects
+
+</td>
+<td width="34%" valign="top">
+
+#### 🚀 **Innovation**
+- Research initiatives
+- Local solution development
+- Startup incubation
+- Industry partnerships
+- Pan-African expansion
+
+</td>
+</tr>
+</table>
+
+### 📊 **SAiR Impact Metrics:**
+- ✅ **200+** Sudanese/African learners trained
+- ✅ **3** complete AI/ML modules developed
+- ✅ **15+** real-world student projects
+- ✅ **85%** course completion rate
+- 🔄 **Growing** community across 5 African nations
+
+**🌍 Vision:** Making Sudan a recognized hub for AI innovation in Africa
 
 ---
 
@@ -386,7 +560,9 @@ Sudan University
 
 <div align="center">
 
-I'm looking to collaborate on projects involving:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" alt="Collaboration" width="60" height="60" />
+
+<h3>I'm excited to work on projects that make a difference</h3>
 
 </div>
 
@@ -394,40 +570,44 @@ I'm looking to collaborate on projects involving:
 <tr>
 <td width="50%">
 
-### 🔬 For Researchers
-- 🧠 LLM architecture innovations
-- 📊 Distributed training optimizations
-- 🎯 Model compression techniques
-- 📝 Reproducible research implementations
+### 🏢 **For Companies & Organizations**
+- 🚀 **Production AI system** design and implementation
+- ⚡ **Model optimization** and deployment pipelines
+- 🔧 **MLOps infrastructure** development
+- 🇸🇩 **AI education programs** for your team or community
+- 💼 **Technical consulting** and architecture reviews
 
 </td>
 <td width="50%">
 
-### 🏢 For Companies
-- 🚀 Production AI system design
-- ⚡ Model optimization & deployment
-- 🔧 MLOps pipeline development
-- 💼 AI consulting & architecture review
+### 🔬 **For Researchers & Academia**
+- 🧠 **LLM architecture** innovations and experiments
+- 📊 **Distributed training** research and optimization
+- 🎯 **Model compression** techniques
+- 📝 **Reproducible research** implementations
+- 🌍 **AI for development** applications
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 👨‍💻 For Engineers
-- 🛠️ Open source AI tools
-- 📚 Educational frameworks
-- 🎓 Mentorship & code reviews
-- 🤝 Pair programming sessions
+### 👨‍💻 **For Developers & Engineers**
+- 🛠️ **Open source AI tools** and frameworks
+- 📚 **Educational content** and tutorials
+- 🎓 **Mentorship** and code reviews
+- 🤝 **Pair programming** on interesting problems
+- 🌟 **Contributions** to SAiR educational materials
 
 </td>
 <td width="50%">
 
-### 🌟 For Everyone
-- 💡 Innovative AI applications
-- 🌍 Open source contributions
-- 📖 Knowledge sharing & tutorials
-- 🎤 Technical writing & speaking
+### 🌟 **For Everyone Passionate About AI**
+- 💡 **Innovative applications** with social impact
+- 🌍 **Open source contributions** with global reach
+- 📖 **Knowledge sharing** and community building
+- 🎤 **Technical writing** and speaking opportunities
+- 🇸🇩 **Supporting SAiR's mission** in Sudan/Africa
 
 </td>
 </tr>
@@ -435,52 +615,61 @@ I'm looking to collaborate on projects involving:
 
 ---
 
-## 💬 What I Bring to Your Team
-
-<div align="center">
-
-| 🎯 Area | 💪 Strength | 🔧 Tools & Methods |
-|---------|-------------|-------------------|
-| **LLM Engineering** | Full pipeline from pretraining to deployment | PyTorch, DeepSpeed, Hugging Face, LoRA, RLHF |
-| **Distributed Training** | Multi-GPU/multi-node scaling expertise | DDP, FSDP, ZeRO, Pipeline Parallelism |
-| **Model Optimization** | 2-3× speed gains, 40-60% size reduction | Quantization, Pruning, ONNX, TensorRT |
-| **Production Deployment** | Battle-tested MLOps & edge deployment | Docker, FastAPI, AWS, CI/CD, Monitoring |
-| **Research Translation** | From paper to production-ready code | SOTA implementations, reproducibility |
-| **Team Leadership** | Mentoring, technical guidance, project management | Agile, code review, documentation |
-
-</div>
-
----
-
-## 🌍 Languages
-
-<div align="center">
-
-🇬🇧 **English:** Fluent (C1) &nbsp;|&nbsp; 🇹🇷 **Turkish:** Intermediate (B2) &nbsp;|&nbsp; 🇸🇩 **Arabic:** Native
-
-</div>
-
----
-
 ## 📬 Get In Touch
 
 <div align="center">
 
-### Ready to build something amazing together?
+### Ready to build the future of AI together?
 
-[![Email](https://img.shields.io/badge/📧_silvapi1994@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvapi1994@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-sedeg-67444b307/)
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-4A90E2?style=for-the-badge)](https://silvaxxx1.github.io/MyWebsite/)
-[![GitHub](https://img.shields.io/badge/⭐_Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silvaxxx1)
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="mailto:silvapi1994@gmail.com">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Email" width="40" height="40" /><br/>
+<strong>Email Me</strong><br/>
+silvapi1994@gmail.com
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://www.linkedin.com/in/mohammed-sedeg-67444b307/">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" alt="LinkedIn" width="40" height="40" /><br/>
+<strong>Connect</strong><br/>
+LinkedIn Profile
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://silvaxxx1.github.io/MyWebsite/">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Portfolio" width="40" height="40" /><br/>
+<strong>Portfolio</strong><br/>
+Projects & SAiR
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://t.me/+jPPlO6ZFDbtlYzU0">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="SAiR" width="40" height="40" /><br/>
+<strong>Join SAiR</strong><br/>
+Telegram Community
+</a>
+</td>
+</tr>
+</table>
 
-### 📍 Currently Available For:
+<br/>
 
-🚀 **Full-time positions** | 💼 **Contract work** | 🤝 **Collaborations** | 🎯 **Consulting**
+### 📍 **Currently Available For:**
 
----
+🚀 **Full-time AI Engineering Roles**  
+💼 **Contract & Consulting Projects**  
+🤝 **Research Collaborations**  
+🎯 **Technical Advisory Positions**  
+🇸🇩 **SAiR Partnership Opportunities**
 
-### *"Bridging the gap between cutting-edge AI research and production systems that scale"*
+<br/>
 
-⭐️ From [Mohammed "Silva" Sedeg](https://github.com/silvaxxx1)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=80&section=footer&text=Let's+Build+AI+That+Matters&fontSize=20&fontColor=fff&animation=fadeIn" width="100%"/>
 
-</div>
+<h3>⭐️ From <a href="https://github.com/silvaxxx1">Mohammed "Silva" Sedeg</a> – Building AI for Everyone</h3>
+
+*🇸🇩 Founder of SAiR | 🚀 AI Engineer | 🌍 Making AI Accessible in Africa*
+
+</div>technical expertise** that delivers real business value.
