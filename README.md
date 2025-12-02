@@ -647,6 +647,3 @@ Telegram Community
 *🇸🇩 Founder of SAiR | 🚀 AI Engineer | 🌍 Making AI Accessible in Africa*
 
 </div>
-7. **Mobile-responsive design**
-
-This version will display perfectly on GitHub and maintain all your important information while looking professional and engaging!
