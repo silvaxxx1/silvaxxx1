@@ -671,5 +671,3 @@ Telegram Community
 <h3>⭐️ From <a href="https://github.com/silvaxxx1">Mohammed "Silva" Sedeg</a> – Building AI for Everyone</h3>
 
 *🇸🇩 Founder of SAiR | 🚀 AI Engineer | 🌍 Making AI Accessible in Africa*
-
-</div>technical expertise** that delivers real business value.
