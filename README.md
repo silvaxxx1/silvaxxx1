@@ -154,7 +154,7 @@ Educational DL framework built from first principles:
 </tr>
 </table>
 
-**More:** [PAPER2CODE](https://github.com/silvaxxx1/PAPER2CODE) · [TF2 Object Detection Pipeline](https://github.com/silvaxxx1/Automated-Pipeline-for-Inference-and-Fine-Tuning-Using-TensorFlow-2-Object-Detection-API)
+**More:** [PAPER2CODE](https://github.com/silvaxxx1/PAPER2CODE) · [TF2 Object Detection Pipeline](https://github.com/silvaxxx1/Automated-Pipeline-for-Inference-and-Fine-Tuning-Using-TensorFlow-2-Object-Detection-API) . [HandsOnLLMs](https://github.com/silvaxxx1/HandsOnLLMs)
 
 ---
 
