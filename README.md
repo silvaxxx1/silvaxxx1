@@ -91,7 +91,7 @@ As **Founder of SAiR (Sudanese AI Research Organization)**, I'm building Sudan's
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [MyLLM101](https://github.com/silvaxxx1/MyLLM101)
+### 🧠 [MyLLM](https://github.com/silvaxxx1/MyLLM101)
 **End-to-End LLM Research Framework**
 
 Modular PyTorch framework covering the full LLM lifecycle:
@@ -101,7 +101,7 @@ Modular PyTorch framework covering the full LLM lifecycle:
 - Memory-efficient distributed training (DeepSpeed, FSDP)
 - Notebooks bridging math foundations → production
 
-*Used to train **300+ SAiR students***
+*Used to train **200+ SAiR students***
 
 `PyTorch` `Transformers` `RLHF` `DeepSpeed` `FSDP`
 
@@ -140,7 +140,7 @@ Enterprise RAG framework with real production usage:
 </td>
 <td width="50%" valign="top">
 
-### 🧮 [SilvaXNet](https://github.com/silvaxxx1/SilvaNet)
+### 🧮 [MyTorch](https://github.com/silvaxxx1/MyTorch)
 **Deep Learning From Scratch**
 
 Educational DL framework built from first principles:
