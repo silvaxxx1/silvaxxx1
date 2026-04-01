@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00D4FF)](https://silvaxxx1.github.io/MyWebsite/)
+[![Website](https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00D4FF)](https://silvaxxx1.github.io/MyWebsite/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mohammed-sedeg-67444b307/)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:silvapi1994@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/silvaxxx1?style=for-the-badge&logo=github&label=Follow&color=0D1117&labelColor=0D1117&logoColor=white)](https://github.com/silvaxxx1)
