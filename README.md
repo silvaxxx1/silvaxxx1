@@ -175,10 +175,7 @@ Deep learning framework built from NumPy up: custom autograd engine, backprop by
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=silvaxxx1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvaxxx1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800"/>
-
-<img src="https://streak-stats.demolab.com/?user=silvaxxx1&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=silvaxxx1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="80%"/>
 
 </div>
 
