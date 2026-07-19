@@ -18,13 +18,13 @@
 
 </div>
 
----
+<br/>
 
 Nine years building industrial control systems before I wrote my first neural network. That background is why the AI I build doesn't stay in notebooks. I work across LLM systems, edge computer vision, and MLOps — and I founded **SAiR** to make sure engineers in Sudan and Africa can do the same.
 
 Currently a **PhD candidate at Karabük University**, researching Vision-Language Models for edge deployment in low-resource African contexts.
 
----
+<br/>
 
 ## 🇸🇩 SAiR: Sudanese AI Research Organization
 
@@ -45,20 +45,20 @@ Student teams have shipped production systems in healthcare diagnostics, crop di
 
 **[SAiR GitHub](https://github.com/SAIR-Org) · [Join on Telegram](https://t.me/+jPPlO6ZFDbtlYzU0)**
 
----
+<br/>
 
 ## ⚡ Production Impact
 
-```
-🚀  3×    faster LLM inference        via GGUF + ExLlamaV2 quantization
-💸  70%   reduction in fine-tuning    via LoRA / QLoRA on custom instruction datasets
-⚡  40%   lower RAG query latency     via optimized retrieval pipeline architecture
-📦  40-60% smaller CV models          via quantization + pruning on edge hardware
+```text
+🚀  3×      faster LLM inference     via GGUF + ExLlamaV2 quantization
+💸  70%     reduction in fine-tuning via LoRA / QLoRA on custom instruction datasets
+⚡  40%     lower RAG query latency  via optimized retrieval pipeline architecture
+📦  40-60%  smaller CV models        via quantization + pruning on edge hardware
 ⏱️  60-80ms inference on Jetson       real-time edge AI on devices with <4GB RAM
-👥  300+  learners trained             6-module curriculum, 65% completion rate
+👥  300+    learners trained          6-module curriculum, 65% completion rate
 ```
 
----
+<br/>
 
 ## 🏗️ Featured Projects
 
@@ -109,7 +109,7 @@ Deep learning framework built from NumPy up: custom autograd engine, backprop by
 
 **More:** [Kashif — Tabular ML Agent](https://github.com/silvaxxx1/Kashif_Agent) · [Solaris — Multimodal Solar Forecasting](https://github.com/silvaxxx1/Solaris) · [PAPER2CODE](https://github.com/silvaxxx1/PAPER2CODE) · [HandsOnLLMs](https://github.com/silvaxxx1/HandsOnLLMs)
 
----
+<br/>
 
 ## 💼 Experience
 
@@ -137,7 +137,7 @@ Deep learning framework built from NumPy up: custom autograd engine, backprop by
 - Designed dual-axis solar tracker achieving **+35% energy capture**
 - Hybrid solar-EV R&D from concept to prototype
 
----
+<br/>
 
 ## 🔬 Research
 
@@ -149,7 +149,7 @@ Deep learning framework built from NumPy up: custom autograd engine, backprop by
 | V2G Microgrid Optimization | Improved Antlion Optimizer + PSO + Monte Carlo | Published |
 | Edge VLM Deployment | Quantization + pruning for constrained hardware | 60–80ms inference |
 
----
+<br/>
 
 ## 🛠️ Technical Skills
 
@@ -161,7 +161,7 @@ Deep learning framework built from NumPy up: custom autograd engine, backprop by
 | **MLOps** | FastAPI · Docker · MLflow · Prefect · Prometheus · Grafana · GitHub Actions · AWS SageMaker |
 | **Languages** | Python (advanced) · C/C++ · TypeScript · R · Bash · SQL |
 
----
+<br/>
 
 ## 🔭 Currently
 
@@ -169,7 +169,7 @@ Deep learning framework built from NumPy up: custom autograd engine, backprop by
 - 🏗️ **Building:** Next SAiR module — LLM Engineering end-to-end
 - 🤝 **Open to:** Senior AI Engineering · LLM Consulting · Research Collaboration
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -179,7 +179,7 @@ Deep learning framework built from NumPy up: custom autograd engine, backprop by
 
 </div>
 
----
+<br/>
 
 ## 🎓 Education
 
@@ -189,16 +189,18 @@ Deep learning framework built from NumPy up: custom autograd engine, backprop by
 | 🎓 **M.Sc.**, Mechatronics *(Computer Vision specialization)* | Karabük University, Turkey | 2023 |
 | 🎓 **B.Sc.**, Electrical Engineering *(Control Systems)* | Sudan University of Science and Technology | 2016 |
 
-**Languages:** Arabic (Native) · English (C1) · Turkish (B2)  
+**Languages:** Arabic (Native) · English (C1) · Turkish (B2)
 **Certifications:** [View All](https://drive.google.com/drive/folders/1_jptrFFIlA3uZUXjhCKuEX6JztPal1u1?usp=sharing)
 
----
+<br/>
 
 ## 📬 Let's Connect
 
 <div align="center">
 
 *5+ years in LLM systems. 9 years of engineering behind it. I bridge research depth with production delivery.*
+
+<br/>
 
 [![Email](https://img.shields.io/badge/silvapi1994@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvapi1994@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-sedeg-67444b307/)
