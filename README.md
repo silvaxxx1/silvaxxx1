@@ -62,50 +62,10 @@ Student teams have shipped production systems in healthcare diagnostics, crop di
 
 ## 🏗️ Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [MyLLM](https://github.com/silvaxxx1/MyLLM101) — End-to-End LLM Framework
-
-Pure-PyTorch framework covering the full LLM pipeline from scratch: pretraining, SFT, RLHF, DPO, quantization (GGUF/AWQ/GPTQ), and distributed training via DeepSpeed and FSDP. One-line `LLM.from_pretrained()`. 128 tests, 21 learning notebooks.
-
-*The reference implementation for 200+ SAiR students.*
-
-`PyTorch` `DeepSpeed` `FSDP` `RLHF` `GGUF`
-
-</td>
-<td width="50%" valign="top">
-
-### [RagApp](https://github.com/silvaxxx1/RagApp) — Enterprise RAG Platform
-
-Multi-provider LLM retrieval system used in client production. Modular retriever-generator over pgvector, Qdrant, and MongoDB. FastAPI + Docker, full Prometheus + Grafana observability. Query latency down ~40% after pipeline rework.
-
-`FastAPI` `pgvector` `Qdrant` `LangChain` `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Cafe.AI](https://github.com/silvaxxx1/Cafe.AI) — Multi-Agent Commerce System
-
-5-agent async pipeline: Guard → Classification → Details/Order/Recommendation. RAG over ChromaDB, SSE streaming, SQLite session persistence. 160 tests, 80% LLM eval pass-rate gates CI/CD.
-
-`Groq` `Llama-3.3-70B` `ChromaDB` `FastAPI` `SSE`
-
-</td>
-<td width="50%" valign="top">
-
-### [MyTorch](https://github.com/silvaxxx1/MyTorch) — PyTorch From Scratch
-
-Deep learning framework built from NumPy up: custom autograd engine, backprop by hand, working neural nets. Extending with custom Triton GPU kernels to match PyTorch performance on attention and matmul.
-
-`NumPy` `CuPy` `Triton` `CUDA` `Autograd`
-
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| **[MyLLM](https://github.com/silvaxxx1/MyLLM101)** — End-to-End LLM Framework<br><br>Pure-PyTorch framework covering the full LLM pipeline from scratch: pretraining, SFT, RLHF, DPO, quantization (GGUF/AWQ/GPTQ), and distributed training via DeepSpeed and FSDP. One-line `LLM.from_pretrained()`. 128 tests, 21 learning notebooks.<br><br>*The reference implementation for 200+ SAiR students.*<br><br>`PyTorch` `DeepSpeed` `FSDP` `RLHF` `GGUF` | **[RagApp](https://github.com/silvaxxx1/RagApp)** — Enterprise RAG Platform<br><br>Multi-provider LLM retrieval system used in client production. Modular retriever-generator over pgvector, Qdrant, and MongoDB. FastAPI + Docker, full Prometheus + Grafana observability. Query latency down ~40% after pipeline rework.<br><br>`FastAPI` `pgvector` `Qdrant` `LangChain` `Docker` |
+| **[Cafe.AI](https://github.com/silvaxxx1/Cafe.AI)** — Multi-Agent Commerce System<br><br>5-agent async pipeline: Guard → Classification → Details/Order/Recommendation. RAG over ChromaDB, SSE streaming, SQLite session persistence. 160 tests, 80% LLM eval pass-rate gates CI/CD.<br><br>`Groq` `Llama-3.3-70B` `ChromaDB` `FastAPI` `SSE` | **[MyTorch](https://github.com/silvaxxx1/MyTorch)** — PyTorch From Scratch<br><br>Deep learning framework built from NumPy up: custom autograd engine, backprop by hand, working neural nets. Extending with custom Triton GPU kernels to match PyTorch performance on attention and matmul.<br><br>`NumPy` `CuPy` `Triton` `CUDA` `Autograd` |
 
 **More:** [Kashif — Tabular ML Agent](https://github.com/silvaxxx1/Kashif_Agent) · [Solaris — Multimodal Solar Forecasting](https://github.com/silvaxxx1/Solaris) · [PAPER2CODE](https://github.com/silvaxxx1/PAPER2CODE) · [HandsOnLLMs](https://github.com/silvaxxx1/HandsOnLLMs)
 
