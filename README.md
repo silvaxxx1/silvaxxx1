@@ -4,10 +4,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-B45309?style=for-the-badge&logo=google-chrome&logoColor=white)](https://silvaxxx1.github.io/MyWebsite/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-sedeg-67444b307/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvapi1994@gmail.com)
-[![SAiR](https://img.shields.io/badge/SAiR_Org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAIR-Org)
+[![Portfolio](https://img.shields.io/badge/Portfolio-B45309?style=for-the-badge)](https://silvaxxx1.github.io/MyWebsite/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mohammed-sedeg-67444b307/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge)](mailto:silvapi1994@gmail.com)
+[![SAiR](https://img.shields.io/badge/SAiR_Org-181717?style=for-the-badge)](https://github.com/SAIR-Org)
 
 <br/>
 
@@ -162,10 +162,10 @@ Student teams have shipped production systems in healthcare diagnostics, crop di
 
 <br/>
 
-[![Email](https://img.shields.io/badge/silvapi1994@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvapi1994@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-sedeg-67444b307/)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-B45309?style=for-the-badge&logo=google-chrome&logoColor=white)](https://silvaxxx1.github.io/MyWebsite/)
-[![SAiR](https://img.shields.io/badge/Join_SAiR-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+jPPlO6ZFDbtlYzU0)
+[![Email](https://img.shields.io/badge/silvapi1994@gmail.com-EA4335?style=for-the-badge)](mailto:silvapi1994@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mohammed-sedeg-67444b307/)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-B45309?style=for-the-badge)](https://silvaxxx1.github.io/MyWebsite/)
+[![SAiR](https://img.shields.io/badge/Join_SAiR-26A5E4?style=for-the-badge)](https://t.me/+jPPlO6ZFDbtlYzU0)
 
 <br/>
 
