@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=B45309&center=true&vCenter=true&width=650&lines=Mohammed+%22Silva%22+Sedeg;Senior+AI+Engineer+%7C+LLM+Systems+%26+Edge+AI;Founder+of+SAiR+%7C+Building+AI+for+Sudan+%F0%9F%87%B8%F0%9F%87%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=B45309&center=true&vCenter=true&width=700&lines=Mohammed+%22Silva%22+Sedeg;AI+Systems+Engineer+%7C+LLM+%26+Edge+AI;From+Tensors+%E2%86%92+Kernels+%E2%86%92+Inference;Founder+of+SAiR+%7C+Building+AI+for+Sudan+%F0%9F%87%B8%F0%9F%87%A9" alt="Typing SVG" />
 
 <br/>
 
@@ -14,23 +14,167 @@
 ![Location](https://img.shields.io/badge/📍_Turkey-0D1117?style=flat-square)
 ![Remote](https://img.shields.io/badge/🌍_Remote_Ready-0D1117?style=flat-square)
 ![PhD](https://img.shields.io/badge/🎓_PhD_Candidate-0D1117?style=flat-square)
-![Views](https://komarev.com/ghpvc/?username=silvaxxx1&color=B45309&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=silvaxxx1\&color=B45309\&style=flat-square\&label=Profile+Views)
 
 </div>
 
 <br/>
 
-Nine years building industrial control systems before I wrote my first neural network. That background is why the AI I build doesn't stay in notebooks. I work across LLM systems, edge computer vision, and MLOps — and I founded **SAiR** to make sure engineers in Sudan and Africa can do the same.
+# Mohammed "Silva" Sedeg
 
-Currently a **PhD candidate at Karabük University**, researching Vision-Language Models for edge deployment in low-resource African contexts.
+**AI Systems Engineer building from models to production.**
 
-<br/>
+My background spans **industrial automation, deep learning, LLM systems, edge AI, and MLOps**. I started with machines, controllers, and physical systems — then moved deeper into neural networks, LLMs, and the infrastructure that makes them run.
 
-## 🇸🇩 SAiR: Sudanese AI Research Organization
+These days, I'm going deeper into **Inference Engineering**: model optimization, quantization, kernels, GPU execution, serving, and AI infrastructure.
 
-> *Free. Open-source. Built for engineers who have the curiosity but not the access.*
+> **From tensors → kernels → inference → production.**
 
-I started SAiR because I kept meeting brilliant people in Sudan who had the ability but not the resources. SAiR is the org I wished had existed when I was starting out.
+I also founded **SAiR**, an open-source AI research and education organization focused on expanding access to practical AI engineering across Sudan and Africa.
+
+---
+
+## ⚡ Production Impact
+
+```text
+🚀  3×       faster LLM inference       GGUF + ExLlamaV2 quantization
+💸  70%      lower fine-tuning cost     LoRA / QLoRA
+⚡  40%      lower RAG latency          retrieval pipeline optimization
+📦  40–60%  smaller CV models          quantization + pruning
+⏱️  60–80ms edge inference             <4GB RAM hardware
+👥  300+     engineers & learners       SAiR training programs
+```
+
+---
+
+## 🧠 What I'm Building Toward
+
+```text
+Deep Learning
+      ↓
+PyTorch / Autograd
+      ↓
+CUDA / Triton / Kernels
+      ↓
+Quantization & Optimization
+      ↓
+LLM Inference
+      ↓
+vLLM / SGLang / Serving
+      ↓
+AI Infrastructure
+      ↓
+Production AI Systems
+```
+
+The goal isn't just to use AI frameworks.
+
+It's to understand **why they work, where they bottleneck, and how to build the systems underneath them.**
+
+---
+
+## 🏗️ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔥 [MyTorch](https://github.com/silvaxxx1/MyTorch)
+
+**PyTorch From Scratch**
+
+A deep learning framework built from NumPy up.
+
+Custom autograd engine, backpropagation, neural networks, and ongoing work on GPU execution and custom kernels.
+
+Currently exploring **Triton, CUDA, attention, and matmul optimization**.
+
+`NumPy` `CuPy` `Triton` `CUDA` `Autograd`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 [MyLLM](https://github.com/silvaxxx1/MyLLM101)
+
+**End-to-End LLM Framework**
+
+A pure-PyTorch implementation covering the LLM lifecycle:
+
+Pretraining → SFT → RLHF → DPO → Quantization → Distributed Training.
+
+Includes GGUF/AWQ/GPTQ experimentation and DeepSpeed/FSDP support.
+
+`PyTorch` `DeepSpeed` `FSDP` `RLHF` `GGUF`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 [RagApp](https://github.com/silvaxxx1/RagApp)
+
+**Production RAG Platform**
+
+Multi-provider retrieval-generation system built around FastAPI with pgvector, Qdrant, and MongoDB.
+
+Includes Docker deployment and Prometheus/Grafana observability.
+
+Pipeline optimization reduced query latency by ~40%.
+
+`FastAPI` `pgvector` `Qdrant` `Docker`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 [Cafe.AI](https://github.com/silvaxxx1/Cafe.AI)
+
+**Multi-Agent Commerce System**
+
+Five-agent asynchronous pipeline covering guardrails, classification, product details, ordering, and recommendations.
+
+RAG over ChromaDB with SSE streaming, persistent sessions, automated tests, and LLM evaluation gates.
+
+`Groq` `Llama` `ChromaDB` `FastAPI` `SSE`
+
+</td>
+</tr>
+</table>
+
+### More Projects
+
+[**Kashif**](https://github.com/silvaxxx1/Kashif_Agent) — Tabular ML Agent · [**Solaris**](https://github.com/silvaxxx1/Solaris) — Multimodal Solar Forecasting · [**PAPER2CODE**](https://github.com/silvaxxx1/PAPER2CODE) — Research-to-Code · [**HandsOnLLMs**](https://github.com/silvaxxx1/HandsOnLLMs) — LLM Experiments
+
+---
+
+## 🛠️ Technical Stack
+
+| Domain                   | Technologies                                                         |
+| ------------------------ | -------------------------------------------------------------------- |
+| **AI Systems**           | PyTorch · CUDA · Triton · NumPy · CuPy                               |
+| **LLM & GenAI**          | Transformers · LoRA/QLoRA · RLHF · DPO · RAG · Hugging Face          |
+| **Inference**            | vLLM · SGLang · GGUF · ExLlamaV2 · Quantization · Model Optimization |
+| **Computer Vision**      | YOLOv8 · OpenCV · ONNX · TensorRT · TFLite · SAM · LLaVA             |
+| **Edge AI**              | NVIDIA Jetson · Raspberry Pi · CUDA · TensorRT · ONNX                |
+| **AI Infrastructure**    | Docker · Kubernetes · FastAPI · MLflow · Prefect                     |
+| **Observability**        | Prometheus · Grafana · GitHub Actions                                |
+| **Distributed Training** | DeepSpeed · FSDP · PyTorch DDP · AMP                                 |
+| **Data & Retrieval**     | PostgreSQL · pgvector · Qdrant · ChromaDB · FAISS · MongoDB          |
+| **Languages**            | Python · C/C++ · Bash · SQL · TypeScript                             |
+
+---
+
+## 🇸🇩 SAiR — Sudanese AI Research Organization
+
+> **Free. Open-source. Built for engineers who have the curiosity but not the access.**
+
+I founded **[SAiR](https://github.com/SAIR-Org)** to build the AI engineering ecosystem I wished existed when I was starting out.
+
+The mission is simple:
+
+**Make serious AI education, research, and engineering accessible to Sudanese and African engineers.**
 
 <div align="center">
 
@@ -41,124 +185,127 @@ I started SAiR because I kept meeting brilliant people in Sudan who had the abil
 
 </div>
 
-Student teams have shipped production systems in healthcare diagnostics, crop disease detection (CNN), and Arabic NLP.
+Student teams have built systems across:
 
-**[SAiR GitHub](https://github.com/SAIR-Org) · [Join on Telegram](https://t.me/+jPPlO6ZFDbtlYzU0)**
+* 🏥 Healthcare diagnostics
+* 🌱 Crop disease detection
+* 🗣️ Arabic NLP
+* 🤖 LLM applications
+* 📊 Applied machine learning
+* ⚙️ Production MLOps
 
-<br/>
+**[SAiR GitHub](https://github.com/SAIR-Org) · [Join SAiR on Telegram](https://t.me/+jPPlO6ZFDbtlYzU0)**
 
-## ⚡ Production Impact
-
-```text
-🚀  3×      faster LLM inference     via GGUF + ExLlamaV2 quantization
-💸  70%     reduction in fine-tuning via LoRA / QLoRA on custom instruction datasets
-⚡  40%     lower RAG query latency  via optimized retrieval pipeline architecture
-📦  40-60%  smaller CV models        via quantization + pruning on edge hardware
-⏱️  60-80ms inference on Jetson       real-time edge AI on devices with <4GB RAM
-👥  300+    learners trained          6-module curriculum, 65% completion rate
-```
-
-<br/>
-
-## 🏗️ Featured Projects
-
-| | |
-|---|---|
-| **[MyLLM](https://github.com/silvaxxx1/MyLLM101)** — End-to-End LLM Framework<br><br>Pure-PyTorch framework covering the full LLM pipeline from scratch: pretraining, SFT, RLHF, DPO, quantization (GGUF/AWQ/GPTQ), and distributed training via DeepSpeed and FSDP. One-line `LLM.from_pretrained()`. 128 tests, 21 learning notebooks.<br><br>*The reference implementation for 200+ SAiR students.*<br><br>`PyTorch` `DeepSpeed` `FSDP` `RLHF` `GGUF` | **[RagApp](https://github.com/silvaxxx1/RagApp)** — Enterprise RAG Platform<br><br>Multi-provider LLM retrieval system used in client production. Modular retriever-generator over pgvector, Qdrant, and MongoDB. FastAPI + Docker, full Prometheus + Grafana observability. Query latency down ~40% after pipeline rework.<br><br>`FastAPI` `pgvector` `Qdrant` `LangChain` `Docker` |
-| **[Cafe.AI](https://github.com/silvaxxx1/Cafe.AI)** — Multi-Agent Commerce System<br><br>5-agent async pipeline: Guard → Classification → Details/Order/Recommendation. RAG over ChromaDB, SSE streaming, SQLite session persistence. 160 tests, 80% LLM eval pass-rate gates CI/CD.<br><br>`Groq` `Llama-3.3-70B` `ChromaDB` `FastAPI` `SSE` | **[MyTorch](https://github.com/silvaxxx1/MyTorch)** — PyTorch From Scratch<br><br>Deep learning framework built from NumPy up: custom autograd engine, backprop by hand, working neural nets. Extending with custom Triton GPU kernels to match PyTorch performance on attention and matmul.<br><br>`NumPy` `CuPy` `Triton` `CUDA` `Autograd` |
-
-**More:** [Kashif — Tabular ML Agent](https://github.com/silvaxxx1/Kashif_Agent) · [Solaris — Multimodal Solar Forecasting](https://github.com/silvaxxx1/Solaris) · [PAPER2CODE](https://github.com/silvaxxx1/PAPER2CODE) · [HandsOnLLMs](https://github.com/silvaxxx1/HandsOnLLMs)
-
-<br/>
+---
 
 ## 💼 Experience
 
-### 🤖 AI Engineer & LLM Consultant · Independent / Contract `2023 – Present`
+### 🤖 AI Engineer & LLM Consultant · Independent / Contract
 
-- Architected **enterprise RAG systems** with multi-provider LLM stack (OpenAI, Cohere, HuggingFace, Ollama): FastAPI + pgvector + Qdrant + MongoDB, cutting query latency by ~**40%**
-- Reduced LLM fine-tuning costs **70%** via LoRA/QLoRA; accelerated distributed training **20–30%** with DeepSpeed, PyTorch DDP, and AMP
-- Deployed GGUF and ExLlamaV2 quantized models achieving **~3× faster inference**; full observability stack (Prometheus + Grafana); ML pipelines with Prefect cutting deployment cycle time **35%**
-- Built **fintech KYC OCR pipeline** using Mistral OCR, reducing manual document processing by **60%**
+`2023 – Present`
 
-### 👁️ AI Engineer, Computer Vision Specialist · VisionCore `2024 – 2025`
+* Architected enterprise RAG systems using **OpenAI, Cohere, Hugging Face, and Ollama**, backed by FastAPI, pgvector, Qdrant, and MongoDB.
+* Reduced RAG query latency by approximately **40%** through retrieval and pipeline optimization.
+* Reduced fine-tuning costs by **70%** using LoRA/QLoRA and custom instruction datasets.
+* Accelerated distributed training by **20–30%** using DeepSpeed, PyTorch DDP, and AMP.
+* Achieved approximately **3× faster LLM inference** using GGUF and ExLlamaV2 quantization.
+* Built production observability with **Prometheus + Grafana**.
+* Built a fintech KYC OCR pipeline using Mistral OCR, reducing manual document processing by **60%**.
 
-- Deployed **low-latency edge AI** (TFLite, ONNX) on constrained hardware: **60–80ms end-to-end inference** on devices with <4GB RAM
-- Built real-time **PPE detection system** using YOLOv8 reaching **85–90% mAP** in production
-- Automated annotation via Roboflow + VLM augmentation: **25%** less labeling effort, **2×** faster dataset iteration
+### 👁️ AI Engineer · Computer Vision Specialist · VisionCore
 
-### 🔬 R&D Engineer, AI & Deep Learning · Karabük University `2021 – 2023`
+`2024 – 2025`
 
-- Designed **multimodal solar forecasting system**: LSTM + Transformer + CNN with cross-modal attention over NOAA GOES-16/17 — SOTA across all benchmarks (RMSE, MAE, R²)
-- Built **V2G microgrid optimization pipeline** using Improved Antlion Optimizer + PSO + Monte Carlo — published
+* Deployed low-latency edge AI using **TFLite and ONNX** on constrained hardware.
+* Achieved **60–80ms end-to-end inference** on devices with <4GB RAM.
+* Built real-time PPE detection using **YOLOv8**, reaching 85–90% mAP in production.
+* Automated annotation using Roboflow + VLM augmentation, reducing labeling effort by **25%**.
+* Improved dataset iteration speed by approximately **2×**.
 
-### ⚙️ Industrial Automation & Renewable Energy `2017 – 2021`
+### 🔬 R&D Engineer · AI & Deep Learning · Karabük University
 
-- Managed 24/7 PLC/HMI/SCADA systems improving uptime **~18%**
-- Designed dual-axis solar tracker achieving **+35% energy capture**
-- Hybrid solar-EV R&D from concept to prototype
+`2021 – 2023`
 
-<br/>
+* Designed a multimodal solar forecasting system combining **LSTM + Transformer + CNN** with cross-modal attention over NOAA GOES-16/17 data.
+* Developed a V2G microgrid optimization pipeline using **Improved Antlion Optimizer + PSO + Monte Carlo**.
+* Published research in AI, optimization, and renewable-energy systems.
+
+### ⚙️ Industrial Automation & Renewable Energy
+
+`2017 – 2021`
+
+Before AI, I spent years building and operating physical systems.
+
+* Managed 24/7 **PLC / HMI / SCADA** systems and improved uptime by ~18%.
+* Designed a dual-axis solar tracker achieving approximately **35% additional energy capture**.
+* Worked across automation, control systems, solar engineering, and hybrid solar-EV R&D.
+
+---
 
 ## 🔬 Research
 
-> PhD Candidate, Karabük University · Vision-Language Models · Edge AI · African AI Applications
+**PhD Candidate — Karabük University**
 
-| Project | Method | Result |
-|---|---|---|
-| Solar Irradiance Forecasting | LSTM + Transformer + CNN · NOAA GOES-16/17 | SOTA on RMSE, MAE, R² |
-| V2G Microgrid Optimization | Improved Antlion Optimizer + PSO + Monte Carlo | Published |
-| Edge VLM Deployment | Quantization + pruning for constrained hardware | 60–80ms inference |
+Research focus:
 
-<br/>
+> **Vision-Language Models · Edge AI · Model Optimization · Low-Resource African AI Applications**
 
-## 🛠️ Technical Skills
+| Research Area         | Approach                                            |
+| --------------------- | --------------------------------------------------- |
+| **Solar Forecasting** | LSTM + Transformer + CNN · NOAA GOES-16/17          |
+| **V2G Optimization**  | Improved Antlion Optimizer + PSO + Monte Carlo      |
+| **Edge VLMs**         | Quantization + pruning for constrained hardware     |
+| **AI for Africa**     | Efficient AI under compute and resource constraints |
 
-| Domain | Stack |
-|---|---|
-| **LLMs & GenAI** | PyTorch · Hugging Face · LoRA/QLoRA · RLHF/DPO · RAG · vLLM · GGUF · ExLlamaV2 · DeepSpeed · FSDP |
-| **RAG & Agents** | LangChain · pgvector · Qdrant · ChromaDB · FAISS · Multi-agent pipelines · LLM evals |
-| **Computer Vision** | YOLOv8 · TFLite · ONNX · TensorRT · OpenCV · SAM · LLaVA · Jetson · Raspberry Pi |
-| **MLOps** | FastAPI · Docker · MLflow · Prefect · Prometheus · Grafana · GitHub Actions · AWS SageMaker |
-| **Languages** | Python (advanced) · C/C++ · TypeScript · R · Bash · SQL |
-
-<br/>
+---
 
 ## 🔭 Currently
 
-- 📖 **PhD research:** Vision-Language Models for edge deployment in low-resource African contexts
-- 🏗️ **Building:** Next SAiR module — LLM Engineering end-to-end
-- 🤝 **Open to:** Senior AI Engineering · LLM Consulting · Research Collaboration
+* 📖 Diving deep into **Inference Engineering**
+* ⚙️ Exploring **vLLM · SGLang · Triton · CUDA · quantization**
+* 🧠 Studying the path from **model → kernel → inference → serving**
+* 🔬 Continuing PhD research in **VLMs + Edge AI**
+* 🏗️ Building the next **SAiR LLM Engineering** curriculum
+* 🧪 Breaking things, profiling them, and rebuilding them better
 
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=silvaxxx1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="80%"/>
-
-</div>
-
-<br/>
+---
 
 ## 🎓 Education
 
-| Degree | Institution | Year |
-|---|---|---|
-| 🎓 **PhD Candidate**, Mechatronics & AI *(Vision-Language Models, Edge AI)* | Karabük University, Turkey | 2024 – Present |
-| 🎓 **M.Sc.**, Mechatronics *(Computer Vision specialization)* | Karabük University, Turkey | 2023 |
-| 🎓 **B.Sc.**, Electrical Engineering *(Control Systems)* | Sudan University of Science and Technology | 2016 |
+| Degree                                   | Institution                              |
+| ---------------------------------------- | ---------------------------------------- |
+| 🎓 **PhD Candidate — Mechatronics & AI** | Karabük University, Turkey               |
+| 🎓 **M.Sc. — Mechatronics**              | Karabük University, Turkey               |
+| 🎓 **B.Sc. — Electrical Engineering**    | Sudan University of Science & Technology |
 
-**Languages:** Arabic (Native) · English (C1) · Turkish (B2)
-**Certifications:** [View All](https://drive.google.com/drive/folders/1_jptrFFIlA3uZUXjhCKuEX6JztPal1u1?usp=sharing)
+**Languages:** Arabic · English · Turkish
+**[Certifications](https://drive.google.com/drive/folders/1_jptrFFIlA3uZUXjhCKuEX6JztPal1u1?usp=sharing)**
 
-<br/>
+---
+
+## 🧩 Engineering Philosophy
+
+```text
+Don't just call the API.
+Understand the model.
+
+Don't just run the model.
+Understand the runtime.
+
+Don't just optimize the runtime.
+Understand the hardware.
+
+Don't just ship the system.
+Understand the bottleneck.
+```
+
+---
 
 ## 📬 Let's Connect
 
 <div align="center">
 
-*5+ years in LLM systems. 9 years of engineering behind it. I bridge research depth with production delivery.*
+**Building AI systems from the metal up.**
 
 <br/>
 
@@ -169,6 +316,6 @@ Student teams have shipped production systems in healthcare diagnostics, crop di
 
 <br/>
 
-![Views](https://komarev.com/ghpvc/?username=silvaxxx1&color=B45309&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=silvaxxx1\&color=B45309\&style=flat-square\&label=Profile+Views)
 
 </div>
