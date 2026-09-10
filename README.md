@@ -137,7 +137,7 @@ Five-agent async pipeline (Guard → Classification → Details/Order/Recommenda
 
 **LLM & GenAI**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![vLLM](https://img.shields.io/badge/vLLM-3B82F6?style=flat-square)
 ![Triton](https://img.shields.io/badge/Triton-76B900?style=flat-square)
@@ -151,23 +151,21 @@ Five-agent async pipeline (Guard → Classification → Details/Order/Recommenda
 
 **Vision & Edge AI**
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square)
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square)
 ![Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-**Data Engineering & BI**
+**Data Engineering**
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Superset](https://img.shields.io/badge/Superset-20A6C9?style=flat-square)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 **Infra & MLOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0078D4?style=flat-square)
 
 **Languages**
@@ -220,9 +218,9 @@ Student teams have gone on to ship production systems across:
 
 `2026 – Present`
 
-* Building scalable data pipelines that feed the company's analytics and reporting — widening my lens from pure AI/LLM work into the broader data infrastructure AI systems run on.
-* Working across the modern data stack: warehousing, transformation, orchestration, CI/CD, and BI/visualization tooling.
-* Contributing to the org's evolving data platform strategy as it expands into AI/ML-driven initiatives.
+* Building scalable, production-grade data pipelines — widening my lens from pure AI/LLM work into the broader data infrastructure AI systems run on.
+* Working across the modern data engineering stack: warehousing, transformation, and orchestration.
+* Contributing to the org's evolving data platform architecture as it expands into AI/ML-driven initiatives.
 
 ### 🤖 Senior AI Engineer & LLM Consultant · Independent / Contract
 
