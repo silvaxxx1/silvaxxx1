@@ -6,9 +6,10 @@
 
 **From tensors → kernels → inference → production.**
 
-📍 Riyadh, KSA · 💼 Senior Data/AI Engineer @ Amlak International Finance · 🟢 **Open to consulting & advisory (part-time)**
+📍 Riyadh, KSA · 🟢 **[Open to consulting & advisory (part-time)](https://silvaxxx1.github.io/MyWebsite/consulting)**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-B45309?style=for-the-badge)](https://silvaxxx1.github.io/MyWebsite/)
+[![Consulting](https://img.shields.io/badge/Consulting-B45309?style=for-the-badge)](https://silvaxxx1.github.io/MyWebsite/consulting)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mohammed-sedeg-67444b307/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge)](mailto:silvapi1994@gmail.com)
 
@@ -57,20 +58,20 @@ PLC/HMI/SCADA (+18% uptime) · dual-axis solar tracker (+35% energy) · V2G micr
 <tr>
 <td width="50%" valign="top">
 
-### 🔥 [MyTorch](https://github.com/silvaxxx1/MyTorch)
-**PyTorch from scratch.**
-Custom autograd, backprop, NN layers — now extending to GPU execution and custom kernels (Triton, CUDA, attention, matmul).
-
-`NumPy` · `CuPy` · `Triton` · `CUDA`
-
-</td>
-<td width="50%" valign="top">
-
 ### 🧠 [MyLLM](https://github.com/silvaxxx1/MyLLM101)
 **Transparent from-scratch LLM framework.**
 Full lifecycle: tokenization → attention → SFT/DPO/PPO → inference. GPT-2 / LLaMA-2 / LLaMA-3. DDP, DeepSpeed, FSDP. 128 tests · 21 notebooks.
 
 `PyTorch` · `DeepSpeed` · `FSDP` · `RLHF` · `GGUF`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 [MyTorch](https://github.com/silvaxxx1/MyTorch)
+**PyTorch from scratch.**
+Custom autograd, backprop, NN layers — now extending to GPU execution and custom kernels (Triton, CUDA, attention, matmul).
+
+`NumPy` · `CuPy` · `Triton` · `CUDA`
 
 </td>
 </tr>
@@ -133,7 +134,7 @@ Student teams now shipping in healthcare diagnostics, crop disease detection, Ar
 - Going deep on **inference engineering**: quantization, kernels, GPU execution, serving (vLLM / SGLang).
 - Extending **MyTorch** toward Triton/CUDA attention and matmul kernels.
 - Growing **SAiR**'s next cohort and open-source research track.
-- 🟢 **Available for select consulting & advisory** on LLM systems, RAG architecture, and edge AI — reach out via [email](mailto:silvapi1994@gmail.com).
+- 🟢 **Available for select consulting & advisory** on LLM systems, RAG architecture, and edge AI — [book a consultation](https://silvaxxx1.github.io/MyWebsite/consulting).
 
 ---
 
@@ -158,8 +159,10 @@ Student teams now shipping in healthcare diagnostics, crop disease detection, Ar
 
 **Building AI systems from the metal up.**
 
+🟢 **[Consulting & advisory →](https://silvaxxx1.github.io/MyWebsite/consulting)**
+
+[![Consulting](https://img.shields.io/badge/Book_a_Consultation-B45309?style=for-the-badge)](https://silvaxxx1.github.io/MyWebsite/consulting)
 [![Email](https://img.shields.io/badge/silvapi1994@gmail.com-EA4335?style=for-the-badge)](mailto:silvapi1994@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mohammed-sedeg-67444b307/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-B45309?style=for-the-badge)](https://silvaxxx1.github.io/MyWebsite/)
 
 </div>
