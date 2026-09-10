@@ -13,7 +13,7 @@
 
 ![Location](https://img.shields.io/badge/📍_Turkey-0D1117?style=flat-square)
 ![Remote](https://img.shields.io/badge/🌍_Open_to_Relocate-0D1117?style=flat-square)
-![Experience](https://img.shields.io/badge/🛠️_5%2B_yrs_AI_%7C_9%2B_yrs_Eng-0D1117?style=flat-square)
+![Experience](https://img.shields.io/badge/🛠️_5%2B_yrs_AI_%2F_Data_%7C_9%2B_yrs_Eng-0D1117?style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=silvaxxx1&color=B45309&style=flat-square&label=Profile+Views)
 
 </div>
@@ -24,7 +24,7 @@
 
 **Senior AI Engineer — LLM systems, multi-agent architectures, and edge AI in production.**
 
-5+ years shipping production LLM systems and edge computer vision, backed by 9 years across industrial automation and renewable energy before that. I've been engaged directly by clients for senior, end-to-end ownership since 2023 — architecture, evals, and observability included, not just model calls.
+5+ years shipping production LLM systems and edge computer vision, backed by 9 years across industrial automation and renewable energy before that. I've been engaged directly by clients for senior, end-to-end ownership since 2023 — architecture, evals, and observability included, not just model calls. Currently building scalable data pipelines at Amlak International Finance Company, which is sharpening a wider AI/ML engineering perspective beyond model-layer work.
 
 These days I'm going deeper into **Inference Engineering**: model optimization, quantization, kernels, GPU execution, serving, and AI infrastructure.
 
@@ -157,6 +157,8 @@ Five-agent async pipeline (Guard → Classification → Details/Order/Recommenda
 | **Training & Optimization** | DeepSpeed · DDP/FSDP · AMP · GGUF · ExLlamaV2 |
 | **Serving & Inference** | vLLM · SGLang · Triton |
 | **MLOps & Infra** | Docker · Kubernetes · FastAPI · SageMaker · MLflow |
+| **Data Engineering** | ClickHouse · dbt · Airflow · Bitbucket CI/CD |
+| **BI & Dashboards** | Power BI · Superset · Grafana |
 | **Observability** | Prometheus · Grafana · GitHub Actions |
 | **ML & Research** | PyTorch · TensorFlow · JAX · scikit-learn · XGBoost |
 | **Data & Storage** | PostgreSQL · SQLAlchemy · PySpark · MongoDB · Redis |
@@ -200,6 +202,14 @@ Student teams have gone on to ship production systems across:
 ---
 
 ## 💼 Experience
+
+### 🏦 Senior Data / AI Engineer · Amlak International Finance Company
+
+`2026 – Present`
+
+* Building scalable data pipelines feeding the company's analytics and AI/ML initiatives — widening my lens from pure AI/LLM work into the data infrastructure that AI systems actually run on.
+* Current stack: **ClickHouse** (warehouse), **dbt + Airflow** (transformation & orchestration), **Bitbucket** (source control / CI-CD), with **Power BI, Superset, and Grafana** for visualization.
+* Involved in an active vendor POC evaluating **Incorta** as a potential replacement for parts of the stack, ahead of a planned shift in focus toward AI + ML initiatives.
 
 ### 🤖 Senior AI Engineer & LLM Consultant · Independent / Contract
 
