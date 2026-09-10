@@ -6,7 +6,7 @@
 
 **From tensors → kernels → inference → production.**
 
-📍 Turkey · 🌍 Open to relocate (EU / remote) · 🟢 **Open to senior inference / LLM infra roles**
+📍 Riyadh, KSA · 💼 Senior Data/AI Engineer @ Amlak International Finance · 🟢 **Open to consulting & advisory (part-time)**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-B45309?style=for-the-badge)](https://silvaxxx1.github.io/MyWebsite/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mohammed-sedeg-67444b307/)
@@ -30,7 +30,7 @@
 
 ## 💼 Experience
 
-**🏦 Senior Data / AI Engineer** · Amlak International Finance Company · `2026 – Present`
+**🏦 Senior Data / AI Engineer** · Amlak International Finance Company · Riyadh, KSA · `2026 – Present`
 Building production data pipelines and platform architecture for AI/ML initiatives — warehousing, transformation, orchestration.
 
 **🤖 Senior AI Engineer & LLM Consultant** · Independent / Contract (Euro area) · `2023 – 2026`
@@ -129,9 +129,11 @@ Student teams now shipping in healthcare diagnostics, crop disease detection, Ar
 
 ## 🧭 Now
 
+- **Senior Data/AI Engineer @ Amlak International Finance** (Riyadh, KSA) — building data platform foundations for AI/ML.
 - Going deep on **inference engineering**: quantization, kernels, GPU execution, serving (vLLM / SGLang).
 - Extending **MyTorch** toward Triton/CUDA attention and matmul kernels.
 - Growing **SAiR**'s next cohort and open-source research track.
+- 🟢 **Available for select consulting & advisory** on LLM systems, RAG architecture, and edge AI — reach out via [email](mailto:silvapi1994@gmail.com).
 
 ---
 
