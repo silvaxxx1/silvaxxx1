@@ -148,18 +148,19 @@ Five-agent async pipeline (Guard → Classification → Details/Order/Recommenda
 
 ## 🛠️ Technical Stack
 
-| Domain                   | Technologies                                                                 |
-| ------------------------ | ----------------------------------------------------------------------------- |
-| **LLMs & Fine-Tuning**   | Hugging Face · LangChain · LoRA/QLoRA · RLHF/DPO · Multi-agent pipelines · LLM evals |
-| **RAG & Vector Search**  | pgvector · Qdrant · Weaviate · FAISS · ChromaDB · MongoDB · Redis · Hybrid retrieval · Re-ranking |
-| **Multimodal & Vision**  | LLaVA · Qwen-VL · YOLOv8 · NVIDIA DeepStream · ONNX · TFLite · TensorRT · OpenCV · Detectron2 · SAM |
-| **Edge AI**              | NVIDIA Jetson · Raspberry Pi · CUDA · TensorRT · ONNX                         |
-| **Training & Optimization** | DeepSpeed · PyTorch DDP/FSDP · AMP · GGUF · ExLlamaV2 · vLLM · SGLang · Triton |
-| **MLOps & Infrastructure** | Docker · Kubernetes · FastAPI · AWS SageMaker · MLflow · Prefect            |
-| **Observability**        | Prometheus · Grafana · GitHub Actions                                        |
-| **ML & Research**        | PyTorch · TensorFlow · JAX · scikit-learn · XGBoost · LSTM · Transformer · CNN |
-| **Data & Storage**       | PostgreSQL · SQLAlchemy · PySpark · Alembic · pgvector · Qdrant · ChromaDB · FAISS · MongoDB |
-| **Languages**            | Python (advanced) · C/C++ · R · Bash · SQL · TypeScript                      |
+| Domain | Technologies |
+| --- | --- |
+| **LLMs & Fine-Tuning** | Hugging Face · LangChain · LoRA/QLoRA · RLHF/DPO |
+| **RAG & Vector Search** | pgvector · Qdrant · Weaviate · FAISS · ChromaDB |
+| **Multimodal & Vision** | LLaVA · Qwen-VL · YOLOv8 · DeepStream · TensorRT |
+| **Edge AI** | Jetson · Raspberry Pi · CUDA · ONNX · TFLite |
+| **Training & Optimization** | DeepSpeed · DDP/FSDP · AMP · GGUF · ExLlamaV2 |
+| **Serving & Inference** | vLLM · SGLang · Triton |
+| **MLOps & Infra** | Docker · Kubernetes · FastAPI · SageMaker · MLflow |
+| **Observability** | Prometheus · Grafana · GitHub Actions |
+| **ML & Research** | PyTorch · TensorFlow · JAX · scikit-learn · XGBoost |
+| **Data & Storage** | PostgreSQL · SQLAlchemy · PySpark · MongoDB · Redis |
+| **Languages** | Python · C/C++ · R · Bash · SQL · TypeScript |
 
 ---
 
