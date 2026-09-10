@@ -161,4 +161,3 @@ Student teams now shipping in healthcare diagnostics, crop disease detection, Ar
 [![Portfolio](https://img.shields.io/badge/Portfolio-B45309?style=for-the-badge)](https://silvaxxx1.github.io/MyWebsite/)
 
 </div>
-```
