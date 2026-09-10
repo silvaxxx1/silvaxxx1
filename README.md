@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Portfolio-B45309?style=for-the-badge)](https://silvaxxx1.github.io/MyWebsite/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-B45309?style=for-the-badge)](https://silvaxxx1.github.io/MyWebsite/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mohammed-sedeg-67444b307/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge)](mailto:silvapi1994@gmail.com)
 [![SAiR](https://img.shields.io/badge/SAiR_Org-181717?style=for-the-badge)](https://github.com/SAIR-Org)
@@ -213,7 +213,9 @@ Student teams have gone on to ship production systems across:
 
 ### 🤖 Senior AI Engineer & LLM Consultant · Independent / Contract
 
-`2023 – Present`
+`2023 – 2026`
+
+*Primarily serving clients across the Euro area.*
 
 * **Fintech KYC redesign:** Replaced a brute-force per-document OCR pipeline (Gemini Vision, roughly \$100K/month, no compliance guardrails on raw PII) with a self-hosted complexity-classification router — simple documents resolve in-house, only ambiguous ones escalate to a self-hosted Mistral OCR model. Cut cost to **roughly \$30/month (>99.9% reduction)**, kept all client data on-premises, cut manual processing **60%**, and improved extraction reasoning **20%** via CoT/ToT prompting.
 * Architected enterprise RAG systems (OpenAI, Cohere, Hugging Face, Ollama) over pgvector, Qdrant, and MongoDB via FastAPI — cutting query latency **40%**.
