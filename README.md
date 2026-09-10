@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-B45309?style=for-the-badge)](https://silvaxxx1.github.io/MyWebsite/)
+[![Website](https://img.shields.io/badge/Portfolio-B45309?style=for-the-badge)](https://silvaxxx1.github.io/MyWebsite/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mohammed-sedeg-67444b307/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge)](mailto:silvapi1994@gmail.com)
 [![SAiR](https://img.shields.io/badge/SAiR_Org-181717?style=for-the-badge)](https://github.com/SAIR-Org)
@@ -207,9 +207,9 @@ Student teams have gone on to ship production systems across:
 
 `2026 – Present`
 
-* Building scalable data pipelines feeding the company's analytics and AI/ML initiatives — widening my lens from pure AI/LLM work into the data infrastructure that AI systems actually run on.
-* Current stack: **ClickHouse** (warehouse), **dbt + Airflow** (transformation & orchestration), **Bitbucket** (source control / CI-CD), with **Power BI, Superset, and Grafana** for visualization.
-* Involved in an active vendor POC evaluating **Incorta** as a potential replacement for parts of the stack, ahead of a planned shift in focus toward AI + ML initiatives.
+* Building scalable data pipelines that feed the company's analytics and reporting — widening my lens from pure AI/LLM work into the broader data infrastructure AI systems run on.
+* Working across the modern data stack: warehousing, transformation, orchestration, CI/CD, and BI/visualization tooling.
+* Contributing to the org's evolving data platform strategy as it expands into AI/ML-driven initiatives.
 
 ### 🤖 Senior AI Engineer & LLM Consultant · Independent / Contract
 
