@@ -215,7 +215,7 @@ Student teams have gone on to ship production systems across:
 
 `2023 – Present`
 
-* **Fintech KYC redesign:** Replaced a brute-force per-document OCR pipeline (Gemini Vision, ~$100K/month, no compliance guardrails on raw PII) with a self-hosted complexity-classification router — simple documents resolve in-house, only ambiguous ones escalate to a self-hosted Mistral OCR model. Cut cost to **~$30/month (>99.9% reduction)**, kept all client data on-premises, cut manual processing **60%**, and improved extraction reasoning **20%** via CoT/ToT prompting.
+* **Fintech KYC redesign:** Replaced a brute-force per-document OCR pipeline (Gemini Vision, roughly \$100K/month, no compliance guardrails on raw PII) with a self-hosted complexity-classification router — simple documents resolve in-house, only ambiguous ones escalate to a self-hosted Mistral OCR model. Cut cost to **roughly \$30/month (>99.9% reduction)**, kept all client data on-premises, cut manual processing **60%**, and improved extraction reasoning **20%** via CoT/ToT prompting.
 * Architected enterprise RAG systems (OpenAI, Cohere, Hugging Face, Ollama) over pgvector, Qdrant, and MongoDB via FastAPI — cutting query latency **40%**.
 * Cut fine-tuning costs **70%** using LoRA/QLoRA on custom instruction datasets across 7B–13B parameter models; accelerated distributed training **20–30%** with DeepSpeed, PyTorch DDP, and AMP.
 * Deployed GGUF/ExLlamaV2 quantized models for **3× faster inference** at under 50% memory footprint; built full Prometheus + Grafana observability and Prefect orchestration — cutting deployment cycle **35%**.
