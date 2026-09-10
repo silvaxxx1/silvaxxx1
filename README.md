@@ -37,40 +37,20 @@ I also founded **SAiR**, an open-source AI research and education organization f
 ## ⚡ Production Impact
 
 ```text
-💰  >99.9%   KYC pipeline cost cut     ~$100K/mo → ~$30/mo, plus fixed a PII compliance risk
-🚀  3×       faster LLM inference      GGUF + ExLlamaV2 quantization
-💸  70%      lower fine-tuning cost    LoRA / QLoRA
-⚡  40%      lower RAG latency         retrieval pipeline optimization
-📹  30       concurrent camera streams YOLOv8 + NVIDIA DeepStream, 4×RTX 4070
-⏱️  60–80ms  edge inference            <4GB RAM hardware
-👥  500+     community · 300+ learners SAiR training programs
+💰  >99.9%   Cut a fintech KYC pipeline's cost from ~$100K/mo to ~$30/mo
+📹  30       concurrent camera streams in a production PPE-detection system
+⏱️  60–80ms  edge inference on <4GB RAM hardware
+👥  500+     member community · 300+ active learners through SAiR
 ```
+*(More numbers — inference speed, fine-tuning cost, RAG latency — live in the Experience section below, next to the work that produced them.)*
 
 ---
 
 ## 🧠 What I'm Building Toward
 
-```text
-Deep Learning
-      ↓
-PyTorch / Autograd
-      ↓
-CUDA / Triton / Kernels
-      ↓
-Quantization & Optimization
-      ↓
-LLM Inference
-      ↓
-vLLM / SGLang / Serving
-      ↓
-AI Infrastructure
-      ↓
-Production AI Systems
-```
+`Deep Learning → PyTorch/Autograd → CUDA/Triton → Quantization → LLM Inference → vLLM/SGLang → AI Infrastructure`
 
-The goal isn't just to use AI frameworks.
-
-It's to understand **why they work, where they bottleneck, and how to build the systems underneath them.**
+The goal isn't just to use AI frameworks. It's to understand **why they work, where they bottleneck, and how to build the systems underneath them.**
 
 ---
 
@@ -144,25 +124,58 @@ Five-agent async pipeline (Guard → Classification → Details/Order/Recommenda
 
 [**Kashif**](https://github.com/silvaxxx1/Kashif_Agent) — Tabular ML Agent · [**Solaris**](https://github.com/silvaxxx1/Solaris) — Multimodal Solar Forecasting · [**PAPER2CODE**](https://github.com/silvaxxx1/PAPER2CODE) — Research-to-Code · [**HandsOnLLMs**](https://github.com/silvaxxx1/HandsOnLLMs) — LLM Experiments
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=silvaxxx1&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=silvaxxx1&hide_border=true" height="165"/>
+
+</div>
+
 ---
 
 ## 🛠️ Technical Stack
 
-| Domain | Technologies |
-| --- | --- |
-| **LLMs & Fine-Tuning** | Hugging Face · LangChain · LoRA/QLoRA · RLHF/DPO |
-| **RAG & Vector Search** | pgvector · Qdrant · Weaviate · FAISS · ChromaDB |
-| **Multimodal & Vision** | LLaVA · Qwen-VL · YOLOv8 · DeepStream · TensorRT |
-| **Edge AI** | Jetson · Raspberry Pi · CUDA · ONNX · TFLite |
-| **Training & Optimization** | DeepSpeed · DDP/FSDP · AMP · GGUF · ExLlamaV2 |
-| **Serving & Inference** | vLLM · SGLang · Triton |
-| **MLOps & Infra** | Docker · Kubernetes · FastAPI · SageMaker · MLflow |
-| **Data Engineering** | ClickHouse · dbt · Airflow · Bitbucket CI/CD |
-| **BI & Dashboards** | Power BI · Superset · Grafana |
-| **Observability** | Prometheus · Grafana · GitHub Actions |
-| **ML & Research** | PyTorch · TensorFlow · JAX · scikit-learn · XGBoost |
-| **Data & Storage** | PostgreSQL · SQLAlchemy · PySpark · MongoDB · Redis |
-| **Languages** | Python · C/C++ · R · Bash · SQL · TypeScript |
+**LLM & GenAI**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![vLLM](https://img.shields.io/badge/vLLM-3B82F6?style=flat-square)
+![Triton](https://img.shields.io/badge/Triton-76B900?style=flat-square)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+**RAG & Vector Search**
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-121212?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+
+**Vision & Edge AI**
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square)
+![Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+**Data Engineering & BI**
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Superset](https://img.shields.io/badge/Superset-20A6C9?style=flat-square)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Infra & MLOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0078D4?style=flat-square)
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
 
